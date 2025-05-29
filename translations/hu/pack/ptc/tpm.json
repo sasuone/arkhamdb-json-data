@@ -1,0 +1,81 @@
+[
+    {
+        "code": "03228",
+        "flavor": "\"Anderson's a hard-ass, sure. Always locking up the rum and waking us up at the crack of dawn. But out here in the middle of nowhere, he's definitely the one I want taking point.\"",
+        "name": "Inspiring Presence",
+        "text": "If this skill test is successful, ready an [[Ally]] asset at your location and heal 1 damage or 1 horror from it.",
+        "traits": "Innate."
+    },
+    {
+        "code": "03229",
+        "name": "Mano a Mano",
+        "text": "Play only as your first action.\nDeal 1 damage to an enemy engaged with you. This action does not provoke attacks of opportunity.",
+        "traits": "Spirit. Bold."
+    },
+    {
+        "code": "03230",
+        "name": "Elsősegély",
+        "text": "Használat (4 készlet). Ha nincs rajta készlet, dobd el.\n[action] Költs el 1 készletet. Gyógyíts meg 1 sérülést és 1 iszonyatot egy nyomozóról vagy [[Társ]] eszközről a helyszíneden.",
+        "traits": "Tehetség. Tudomány."
+    },
+    {
+        "code": "03231",
+        "name": "Eureka!",
+        "text": "If this skill test is successful, the investigator performing this test searches the top 3 cards of his or her deck for a card, draws it, and shuffles his or her deck.",
+        "traits": "Innate."
+    },
+    {
+        "code": "03232",
+        "flavor": "You know this town like the back of your hand.",
+        "name": "Shortcut",
+        "text": "Fast. Play only during your turn.\nAttach to your location. Attached location gains:\n\"[free] Exhaust Shortcut: <b>Move</b> <i>(to a connecting location)</i>. Any investigator at this location may trigger this ability.\"",
+        "traits": "Insight. Tactic."
+    },
+    {
+        "code": "03233",
+        "flavor": "Show-off.",
+        "name": "\"Watch this!\"",
+        "text": "Commit only to a skill test you are performing. As an additional cost to commit \"Watch this!\" to a skill test, spend up to 3 resources.\nIf you succeed by 1 or more, gain twice that many resources.",
+        "traits": "Gambit."
+    },
+    {
+        "code": "03234",
+        "name": ".41 Derringer",
+        "text": "Használat (3 töltény).\n[action] Költs el 1 töltényt: <b>Harc.</b> Kapsz +2 [combat]-t ehhez a támadáshoz. Ha legalább +1-elsikerül a próba, a támadás +1 sérülést okoz. Fordulónként egyszer, ha legalább +3-mal sikerül a próba, végrehajthatsz egy további akciót a fordulód során.",
+        "traits": "Tárgy. Fegyver. Lőfegyver. Tiltott.",
+        "slot": "Kéz"
+    },
+    {
+        "code": "03235",
+        "name": "Torrent of Power",
+        "text": "As an additional cost to commit Torrent of Power to a skill test, spend up to 3 charges from among assets you control.\nFor each charge spent in this way, Torrent of Power gains [willpower] [wild].",
+        "traits": "Practiced."
+    },
+    {
+        "code": "03236",
+        "name": "Jövendölés",
+        "text": "Használat (3 töltes).\n[free] Merítsd ki a Jövendölést, és költs el 1 töltetet: Nézd meg bármelyik nyomozó húzópaklijának vagy a találkozáspaklinak a felső 3 kártyáját. Helyezd őket vissza tetszőleges sorrendben. Ha van [[Rettegés]] vagy [[Ómen]] kártya a megnézettek között, kapsz 1 iszonyatot.",
+        "traits": "Varázslat.",
+        "slot": "Mágikus"
+    },
+    {
+        "code": "03237",
+        "flavor": "\"Is… is it over?\" Her hands shook, and she fell to her knees. \"Is it finally over?\"",
+        "name": "Waylay",
+        "text": "Choose an exhausted non-[[Elite]] enemy at your location and test [agility] (X), where X is that enemy's evade value. If you succeed, defeat that enemy.",
+        "traits": "Tactic."
+    },
+    {
+        "code": "03238",
+        "name": "A Chance Encounter",
+        "text": "Choose an [[Ally]] asset with printed resource cost X in any player's discard pile. Put that asset into play under your control.",
+        "traits": "Fortune."
+    },
+    {
+        "code": "03239",
+        "flavor": "You can never be too prepared.",
+        "name": "Emergency Cache",
+        "text": "Gain 4 resources or place 4 supply tokens among assets controlled by investigators at your location, or any combination thereof.",
+        "traits": "Supply."
+    }
+]

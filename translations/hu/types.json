@@ -1,0 +1,54 @@
+[
+    {
+        "code": "act",
+        "name": "Felvonás"
+    },
+    {
+        "code": "agenda",
+        "name": "Cselekmény"
+    },
+    {
+        "code": "asset",
+        "name": "Eszköz"
+    },
+    {
+        "code": "enemy",
+        "name": "Ellenség"
+    },
+    {
+        "code": "enemy_location",
+        "name": "Enemy-Location"
+    },
+    {
+        "code": "event",
+        "name": "Esemény"
+    },
+    {
+        "code": "investigator",
+        "name": "Nyomozó"
+    },
+    {
+        "code": "key",
+        "name": "Key"
+    },
+    {
+        "code": "location",
+        "name": "Helyszín"
+    },
+    {
+        "code": "scenario",
+        "name": "Történetrész"
+    },
+    {
+        "code": "skill",
+        "name": "Képesség"
+    },
+    {
+        "code": "story",
+        "name": "Story"
+    },
+    {
+        "code": "treachery",
+        "name": "Alattomosság"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "code": "guardian",
+        "name": "Őrző"
+    },
+    {
+        "code": "mystic",
+        "name": "Mistikus"
+    },
+    {
+        "code": "mythos",
+        "name": "Mítosz"
+    },
+    {
+        "code": "neutral",
+        "name": "Semleges"
+    },
+    {
+        "code": "rogue",
+        "name": "Zsivány"
+    },
+    {
+        "code": "seeker",
+        "name": "Kutató"
+    },
+    {
+        "code": "survivor",
+        "name": "Túlélő"
+    }
+]

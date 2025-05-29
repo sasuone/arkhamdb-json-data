@@ -1,0 +1,10 @@
+[
+    {
+        "code": "basicweakness",
+        "name": "Alapgyengeség"
+    },
+    {
+        "code": "weakness",
+        "name": "Gyengeség"
+    }
+]

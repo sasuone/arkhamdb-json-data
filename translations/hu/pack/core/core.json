@@ -1,0 +1,728 @@
+[
+    {
+        "code": "01000",
+        "name": "Véletlenszerű alapgyengeség",
+        "text": "Ez egy helyőrző véletlenszerű alapgyengeség\n Le tudod cserélni egy adott Gyengeségre a Special fülön vagy kattints a random gombra, hogy kicserélt egy véletlenszerű Gyengeségre a gyűjteményedből.",
+        "traits": ""
+    },
+    {
+        "code": "01001",
+        "flavor": "Mindent a nagykönyv szerint: az \"i\" betűkre pontot tenni, a \"t\" betűket áthúzni. Ez bevált - mostanáig.",
+        "name": "Roland Banks",
+        "subname": "A szövetségi ügynök",
+        "text": "[reaction] Miután legyőzöl egy ellenséget: Fedezz fel 1 nyomot a helyszíneden. (Körönként legfeljebb egyszer.)\n[elder_sign] hatás: +1 a helyszíneden lévő minden nyom után.",
+        "traits": "Ügynök. Detektív.",
+        "back_flavor": "Roland mindig is otthonosan érezte magát az eljárások és szabályok közegében. Szövetségi ügynökként megkönnyebbüléssel töltötte el, hogy minden lehetséges helyzetre követendő irányelvek állnak rendelkezésre. Az utóbbi időben azonban a Szövetségi Ügynökök kézikönyve egészen haszontalannak bizonyult a rábízott ügyeket illetően. Minden igyekezete dacára, Roland nem talált benne arra vonatkozó utasítást, hogy mi a teendő olyankor, ha az ember különös teremtményekkel, téridőkapukkal vagy mágikus igézettel találja szembe magát. Ha nem a saját szemével látja, el sem hitte volna... feletteseivel viszont aligha tudná merértetni. Roland tudta, hogy ezt az ügyet egymagának kell megoldania.",
+        "back_text": "<b>Pakliméret</b>: 30.\n<b>Pakliépítési lehetőségek</b>: 0-5. szintű őrző kártyák ([guardian]), 0-2. szintű kutató kártyák ([seeker]), 0-5. szintű semleges kártyák.\n<b>Pakliépítési követelmények</b> (nem számítanak bele a pakliméretbe): Roland .38 Special revolvere; Eltusolás; 1 véletlenszerű alapgyengeség."
+    },
+    {
+        "code": "01002",
+        "flavor": "\"Tudok olyan nagy hatalmú könyvekről, amelyek képesek átírni a valóságot.\"",
+        "name": "Daisy Walker",
+        "subname": "A könyvtárnok",
+        "text": "A saját fordulód során végrehajthatsz egy további akciót, amit csak [[Kötet]] [action] képességére használhatsz.\n[elder_sign] hatás: +0. Ha sikeres, húzz 1 kártyát minden általad irányított [[Kötet]] után.",
+        "traits": "Miskatonic.",
+        "back_flavor": "A Miskatonic Egyetem tekintélyes könyvtárnokaként Daisy mindig is úgy érezte, hogy számára a könyvek a legfontosabbak. Regények sorai közt fedezte fel mindazt, amitől az életben írtózott: borzongást, erőszakot, félelmet. Aztán ráakadt a Nekronomikon John Dee-féle fordítására. Istenkáromló volt, szentségtelen és túlságosan is szörnyű, hogy igaz legyen. Ám obskúrus és okkult témakörökben végzett tanulmányainak hála, Daisy tudta, hogy a könyv lapjain több az igaszság, mint a képzelet műve. Kínáncsá vált hát, vajon miféle titkokat tartogathat még az Orne Könyvtár elzárt részlege...",
+        "back_text": "<b>Pakliméret</b>: 30.\n<b>Pakliépítési lehetőségek</b>: 0-5. szintű kutató kártyák ([seeker]), 0-2. szintű misztikus kártyák ([mystic]), 0-5. szintű semleges kártyák.\n<b>Pakliépítési követelmények</b> (nem számítanak bele a pakliméretbe): Daisy válltáskája; A Nekronomikon (John Dee-féle fordítás); 1 véletlenszerű alapgyengeség."
+    },
+    {
+        "code": "01003",
+        "flavor": "\"Nem azért jöttem ki a sittről, hogy végignézzem a világvégét.\"",
+        "name": "\"Simlis\" O'Toole",
+        "subname": "A börtönviselt",
+        "text": "[free] A fordulód során költs el 2 erőforrás: Végrehajthatsz egy további akciót ebben a fordulóban. (Fordulónként legfeljebb egyszer.)\n[elder_sign] hatás: +2. Ha sikeres, kapsz 2 erőforrást.",
+        "traits": "Bűnöző.",
+        "back_flavor": "Simlis sem úgy tervezte, hogy bűnöző lesz. Ám megesik, hogy a jó ügy érdekében az embernek be kell mocskolnia a kezét. A zsarukat nem érdekelte, hogy O'Toole-nak édesanyja műtétére kellett a pénz. Második évét töltötte a rácsok mögött, mikor az anyja belehalt betegségébe. Cellatársa, Brad Hollins azzal vígasztalta, hogy van rosszabb vég is a halálnál. Esténként rebegő hangon a \"Vénekről\" hadovált, és álmai során átélt bizarr kalandjairól mesélt Simlisnek. Ő nem igazán vette komolyan mindezt, mígnem egy éjjel arra ébredt, hogy cellatársát lángok emésztik. Amikor végre kiszabadult, visszatért Arkhamba, hogy válaszokra leljen.",
+        "back_text": "<b>Pakliméret</b>: 30.\n<b>Pakliépítési lehetőségek</b>: 0-5. szintű zsivány kártyák ([rogue]), 0-2. szintű őrző kártyák ([guardian]), 0-5. szintű semleges kártyák.\n<b>Pakliépítési követelmények</b> (nem számítanak bele a pakliméretbe): Szökésben; Kórházi tartozás; 1 véletlenszerű alapgyengeség."
+    },
+    {
+        "code": "01004",
+        "flavor": "\"Emlékszem egy másik életre. egy boszorkánysággal és hódítással töltött létre.\"",
+        "name": "Agnes Baker",
+        "subname": "A pincérnő",
+        "text": "[reaction] Miután 1 vagy több iszonyat kerül Agnes Bakerre: Okozz 1 sérülést egy ellenségnek a helyszíneden. (Fázisonként legfeljebb egyszer.)\n[elder_sign] hatás: +1 az Agnes Bakeren lévő minden iszonyat után.",
+        "traits": "Varázsló.",
+        "back_flavor": "Meglehet, hogy Agnes Baker jelenleg egy szerény felszolgáló, ám előző életében - egy olyan korban s időben, amilyenről manapság már álmodni sem szokás - nagy hatalmú boszorkány volt. Minden akkor kezdődött, amikor a padlásán porosodó családi holmik között különös műalkotásra - valamiféle kulcsra - lelt. Amikor megérintette, a felszínre törtek emlékei, és velük együtt egy szó: \"Hüperborea\". Ahogy egyre mélyebbre merült előző életének látomásai és emlékei között, úgy gyarapodott ereje... vele pedig rémülete is.",
+        "back_text": "<b>Pakliméret</b>: 30.\n<b>Pakliépítési lehetőségek</b>: 0-5. szintű misztikus kártyák ([mystic]), 0-2. szintű túlélő kártyák ([survivor]), 0-5. szintű semleges kártyák.\n<b>Pakliépítési követelmények</b> (nem számítanak bele a pakliméretbe): Hüperboreai örökség; Sötét emlék; 1 véletlenszerű alapgyengeség."
+    },
+    {
+        "code": "01005",
+        "name": "Wendy Adams",
+        "subname": "Az utcakölyök",
+        "text": "[reaction] Amikor húzol egy káoszjelzőt, válassz ki és dobj el 1 kártyát a kezedből: Hagyd figyelmen kívül a káoszjelzőt és tedd vissza a zsákba. Húzz egy új káoszjelzőt. (Próbánként/képességenként legfeljebb egyszer.)\n[elder_sign] hatás: +0. Ha Wendy amulettje játékban van, helyette automatikus sikert érsz el.",
+        "traits": "Csavargó.",
+        "back_flavor": "Mikor Wendy még kislány volt, anyukája hagyta, hogy nyaklncával játszadozzon. Miközben mesélt neki, Wendy kezében forgatva csodálta, ahogy az csillog. Aztán jött a hír, hogy édesapjának nyoma veszett a tengeren, mire anyukája furcsán kezdett viselkedni, és szokatlan jelekkel firkálta tele a házat. Anyu végül elmegyógyintézetbe került, Wendy pedig az árvaházba. Mielőtt bevitték volna, anyukája neki adta a nyakláncot, hogy az \"oltalmazza őt\". Wendy éveket töltött az árvaházban, míg végül megszökött - fejébe vévén, hogy egyedül jobban tud vigyázni magára.",
+        "back_text": "<b>Pakliméret</b>: 30.\n<b>Pakliépítési lehetőségek</b>: 0-5. szintű túlélő kártyák ([survivor]), 0-2. szintű zsivány kártyák ([rogue]), 0-5. szintű semleges kártyák.\n<b>Pakliépítési követelmények</b> (nem számítanak bele a pakliméretbe): Wendy amulettje; Egyedül, magányosan; 1 véletlenszerű alapgyengeség."
+    },
+    {
+        "code": "01006",
+        "name": "Roland .38 Special revolvere",
+        "text": "Csak Roland Banks paklijába.\nHasználat (4 töltény).\n[action] Költs el 1 töltényt: <b>Harc.</b> Kapsz +1 [combat]-t ehhez a támadáshoz (ha van legalább 1 nyom a helyszíneden, +3 [combat]-t kapsz helyette). Ez a támadás +1 sérülést okoz.",
+        "traits": "Tárgy. Fegyver. Lőfegyver.",
+        "slot": "Kéz"
+    },
+    {
+        "code": "01007",
+        "name": "Eltusolás",
+        "text": "<b>Felfedés</b> - Helyezd az Eltusolás kártyát a fenyegetésterületedre és helyezz rá 3 nyomot.\n[reaction] Amikor a helyszíneden felfedeznél 1 vagy több nyomot: Helyette dobj el annak számával megegyező nyomot erről a kártyáról.\n<b>Kötelező</b> - A játék végén, ha maradt legalább 1 nyom az Eltusoláson: Elszenvedsz 1 lelki károsodást.",
+        "traits": "Feladat."
+    },
+    {
+        "code": "01008",
+        "name": "Daisy válltáskája",
+        "text": "Csak Daisy Walker paklijában.\n2 további kéz férőhelyed van, melyekben csak [[Kötet]] eszközöket tarthatsz.",
+        "traits": "Tárgy."
+    },
+    {
+        "code": "01009",
+        "name": "A Nekronomikon",
+        "subname": "John Dee-féle fordítás",
+        "text": "<b>Felfedés</b> - Helyezd A Nekronomikont a fenyegetésterületedre és helyezz rá 3 iszonyatot. Nem hagyhatja el a játékteret, amíg legalább 1 iszonyat van rajta.\nMinden felhúzott [elder_sign] káoszjelzőt kezelj [auto_fail] jelzőként.\n[action]: Mozgass 1 iszonyatot erről a kártyáról Daisy Walkerre. Azután, ha nincs iszonyat ezen a kártyán, dobd el.",
+        "traits": "Tárgy. Kötet.",
+        "slot": "Kéz"
+    },
+    {
+        "code": "01010",
+        "flavor": "Nem megyek vissza a sittre.",
+        "name": "Szökésben",
+        "text": "Csak \"Simlis\" O'Toole paklijában.\nGyors. Játszd ki, amikor megkezdődik a fordulód.\nA kör végéig a nem-[[Elit]] ellenségek nem támadhatnak meg téged.",
+        "traits": "Taktika."
+    },
+    {
+        "code": "01011",
+        "name": "Kórzáhi tartozás",
+        "text": "<b>Felfedés</b> - Helyezd a Kórházi tartozást a fenyegetésterületedre.\n[free]: Helyezz át 1 erőforrást az erőforrásaid közül erre a kártyára. (Körönként legfeljebb kétszer.)\n<b>Kötelező</b> - A játék végén, ha kevesebb mint 6 erőforrás van a Kórházi tartozáson: 2 tapasztalati ponttal kevesebbet kapsz.",
+        "traits": "Feladat."
+    },
+    {
+        "code": "01012",
+        "flavor": "A felületét ékítő vésetek napról napra változnak, amikor pedig nem figyelek, mocorognak és eltolódnak.",
+        "name": "Hüperboreai örökség",
+        "subname": "Ereklye egy másik életből",
+        "text": "Csak Agnes Baker paklijában.\n[reaction] Miután kijátszol egy [[Varázslat]] kártyát: Húzz 1 kártyát.",
+        "traits": "Tárgy. Ereklye.",
+        "slot": "Tartozék"
+    },
+    {
+        "code": "01013",
+        "flavor": "Ne... már megint!",
+        "name": "Sötét emlék",
+        "text": "Helyezz 1 végzetjelzőt az aktuális cselekményre. Ez okozhatja az aktuális cselekmény továbbhaladását.\n<b>Kötelező</b> - Ha a Sötét emlék a kezedben van a forduló végén: Fedd fel és kapsz 2 iszonyatot.",
+        "traits": "Varázslat."
+    },
+    {
+        "code": "01014",
+        "name": "Wendy amulettje",
+        "text": "Csak Wendy Adams paklijában.\nKijátszhatod a dobópaklid legfelső eseményét, mintha a kezedben lenne.\n<b>Kötelező</b> - Miután kijátszol egy eseményt vagy eldobsz egy játékban lévő eseményt: A dobópakli helyett helyezd az eseményt a húzópaklid aljára.",
+        "traits": "Tárgy. Ereklye.",
+        "slot": "Tartozék"
+    },
+    {
+        "code": "01015",
+        "flavor": "Nincs szükségem rájuk. Senkire sincs szükségem.",
+        "name": "Egyedül, magányosan",
+        "text": "<b>Felfedés</b> - Kapsz 2 közvetlen iszonyatot és távolíts el a játékból minden kártyát, ami a dobópaklidban van.",
+        "traits": "Őrület."
+    },
+    {
+        "code": "01016",
+        "name": ".45 Automata",
+        "text": "Használat (4 töltény).\n[action] Költs el 1 töltényt: <b>Harc.</b> Kapsz +1 [combat]-t ehhez a támadáshoz. Ez a támadás +1 sérülést okoz.",
+        "traits": "Tárgy. Fegyver. Lőfegyver.",
+        "slot": "Kéz"
+    },
+    {
+        "code": "01017",
+        "name": "Testedzés",
+        "text": "[free] Költs el 1 erőforrást: Kapsz +1 [willpower]-t ehhez a képességpróbához.\n[free] Költs el 1 erőforrást: Kapsz +1 [combat]-t ehhez a képességpróbához.",
+        "traits": "Tehetség."
+    },
+    {
+        "code": "01018",
+        "name": "Járőr",
+        "text": "Kapsz +1 [combat]-t.\n[free] Dobd el a Járőrt: Okozz 1 sérülést egy ellenségnek a helyszíneden.",
+        "traits": "Társ. Rendőrség.",
+        "slot": "Társ"
+    },
+    {
+        "code": "01019",
+        "name": "Elsősegély",
+        "text": "Használat (3 készlet). Ha nincs rajta készlet, dobd el.\n[action] Költs el 1 készletet: Gyógyíts meg 1 sérülést vagy 1 iszonyatot egy nyomozóról a helyszíneden.",
+        "traits": "Tehetség. Tudomány."
+    },
+    {
+        "code": "01020",
+        "flavor": "Indát, bozótot, és csápnyúlványt egyaránt remekül vág.",
+        "name": "Bozótvágó",
+        "text": "[action]: <b>Harc.</b> Kapsz +1 [combat]-t ehhez a támadáshoz. Ha a megtámadott ellenség az egyetlen veled szembeszálló ellenség, a támadás +1 sérülést okoz.",
+        "traits": "Tárgy. Fegyver. Közelharci.",
+        "slot": "Kéz"
+    },
+    {
+        "code": "01021",
+        "flavor": "E kiképzett ebek végsőkig kitartó hűségükkel tökéletes társak.",
+        "name": "Őrkutya",
+        "text": "[reaction] Amikor egy ellenség támadása sérülést okoz az Őrkutyának: Okozz 1 sérülést a támadó ellenségnek.",
+        "traits": "Társ. Teremtmény.",
+        "slot": "Társ"
+    },
+    {
+        "code": "01022",
+        "flavor": "Pont, ahogy azt gyanítottam!",
+        "name": "Bizonyíték!",
+        "text": "Gyors. Játszd ki, miután legyőzöl egy ellenséget.\nFedezz fel 1 nyomot a helyszíneden.",
+        "traits": "Megérzés."
+    },
+    {
+        "code": "01023",
+        "name": "Kitérés",
+        "text": "Gyors. Játszd ki, amikor egy ellenség megtámad egy nyomozót a helyszíneden.\nHagyd figyelmen kívül a támadást.",
+        "traits": "Taktika."
+    },
+    {
+        "code": "01024",
+        "name": "Dinamitrobbanás",
+        "text": "Válaszd ki vagy a helyszínedet, vagy egy kapcsolódó helyszínt. Okozz 3 sérülést minden ott lévő ellenségnek és nyomozónak.",
+        "traits": "Taktika."
+    },
+    {
+        "code": "01025",
+        "flavor": "A férfi émelyítő csattanással súlytott le a förtelemre újra meg újra... míg az végül nem moccant többé.",
+        "name": "Kíméletlen csapás",
+        "text": "Ha ez a képességpróba sikeres egy támadás végrehajtása során, a támadás +1 sérülést okoz.",
+        "traits": "Gyakorlott."
+    },
+    {
+        "code": "01026",
+        "flavor": "Még nem volt dolgom olyan bestiával, ami túljárhatott volna egy golyó eszén.",
+        "name": "Tartalék lőszer",
+        "text": "Helyezz 3 töltényt a helyszíneden lévő bármely nyomozó által irányított [[Lőfegyver]] eszközre.",
+        "traits": "Ellátmány."
+    },
+    {
+        "code": "01027",
+        "name": "Rendőrségi jelvény",
+        "text": "Kapsz +1 [willpower]-t.\n[free] Amikor egy nyomozó a helyszíneden hajtja végre a fordulóját, dobd el a Rendőrségi jelvényt: A nyomozó további 2 akciót hajthat végre abban a fordulóban.",
+        "traits": "Tárgy.",
+        "slot": "Tartozék"
+    },
+    {
+        "code": "01028",
+        "name": "Járőr",
+        "text": "Kapsz +1 [combat]-t.\n[free] Merítsd ki a Járőrt és okozz neki 1 sérülést: Okozz 1 sérülést egy ellenségnek a helyszíneden.",
+        "traits": "Társ. Rendőrség.",
+        "slot": "Társ"
+    },
+    {
+        "code": "01029",
+        "name": "Sörétes puska",
+        "text": "Használat (2 töltény).\n[action] Költs el 1 töltényt: <b>Harc.</b> Kapsz +3 [combat]-t ehhez a támadáshoz. A szokásos sérülés helyett ez a támadás annyi sérülést okoz, amennyi többletpontot értél el (min. 1 és max. 5 között). Ha sikertelen és megsebeznél egy másik nyomozót, ez a támadás annyi sérülést okoz neki, amennyi ponttal elbuktál (min. 1 és max. 5 között).",
+        "traits": "Tárgy. Fegyver. Lőfegyver.",
+        "slot": "Kéz x2"
+    },
+    {
+        "code": "01030",
+        "flavor": "Lencse egy láthatatlan világra, mely oly dolgokat képes felfedni, amiket jobb volt rejtve tudni.",
+        "name": "Nagyító",
+        "text": "Gyors.\nKapsz +1 [intellect]-t amikor nyomozol.",
+        "traits": "Tárgy. Szerszám.",
+        "slot": "Kéz"
+    },
+    {
+        "code": "01031",
+        "name": "Régi Tanok Könyve",
+        "text": "[action] Merítsd ki a Régi Tanok Könyvét: Válassz egy nyomozót a helyszíneden, aki megnézi a húzópaklija felső 3 kártyáját; az egyiket felhúzza, a másik kettőt pedig visszakeveri a húzópaklijába.",
+        "traits": "Tárgy. Kötet.",
+        "slot": "Kéz"
+    },
+    {
+        "code": "01032",
+        "flavor": "\"Amint azt mindketten tudjuk, az Orne Könyvtárban gondok adódtak szegény Armitage állapota, illetve bizonyos - esztendőkkel korábban megesett, és az előbbotől teljességgel független - kellemetlenségek miatt...\"",
+        "name": "Egyetemi könyvtáros",
+        "text": "[reaction] Miután az Egyetemi könyvtáros játékba kerül: Keress ki egy [[Kötet]] eszközt a húzópaklidból és húzd fel, majd keverd meg a húzópaklidat.",
+        "traits": "Társ. Miskatonic.",
+        "slot": "Társ"
+    },
+    {
+        "code": "01033",
+        "flavor": "\"Bár tiszta szívből imádkozom azért, hogy e lidércnyomás csupán valamiféle sajátságos förtelem legyen, be kell valljam, azért felvillanyoz azon eshetőség, hogy esetleg egy új faj mintapéldányával van dolgom!\"",
+        "name": "Dr. Milan Christopher",
+        "subname": "Rovartani professzor",
+        "text": "Kapsz +1 [intellect]-t.\n[reaction] Miután sikeresen nyomozást hajtasz végre: Kapsz 1 erőforrást.",
+        "traits": "Társ. Miskatonic.",
+        "slot": "Társ"
+    },
+    {
+        "code": "01034",
+        "name": "Fokozott figyelem",
+        "text": "[free] Költs el 1 erőforrást: Kapsz +1 [intellect]-t ehhez a képességpróbához.\n[free] Költs el 1 erőforrást: Kapsz +1 [agility]-t ehhez a képességpróbához.",
+        "traits": "Tehetség."
+    },
+    {
+        "code": "01035",
+        "name": "Orvosi kéziköny",
+        "text": "[action]: Válassz egy nyomozót a helyszíneden és tégy [intellect] (2) próbát. Ha sikeres, gyógyíts meg róla 1 sérülést. Ha sikertelen, okozz neki 1 sérülést.",
+        "traits": "Tárgy. Kötet.",
+        "slot": "Kéz"
+    },
+    {
+        "code": "01036",
+        "name": "Elme az anyag fölött",
+        "text": "Gyors. Csak a saját fordulód során játszhatod ki.\nA kör végéig használhatod [intellect] képességed [combat] és [agility] képességed helyett.",
+        "traits": "Megérzés."
+    },
+    {
+        "code": "01037",
+        "name": "Ösztöntől hajtva",
+        "text": "Gyors. Csak a saját fordulód során játszhatod ki.\nFedezz fel 1 nyomot a helyszíneden.",
+        "traits": "Megérzés."
+    },
+    {
+        "code": "01038",
+        "name": "Torlasz",
+        "text": "Csatold a helyszínedhez.\nA nem-[[Elit]] ellenségek nem mozoghatnak be a hozzácsatolt helyszínre.\n<b>Kötelező</b> - Amikor egy nyomozó elhagyja a hozzácsatolt helyszínt: Dobd el a Torlaszt.",
+        "traits": "Megérzés. Taktika."
+    },
+    {
+        "code": "01039",
+        "flavor": "Tudtam én, hogy valahol láttam már ezt a jelet. Figyelmeztetnem kell a többieket, még mielőtt túl késő lesz!",
+        "name": "Következtetés",
+        "text": "Ha ez a képességpróba sikeres egy helyszínen történő nyomozáskor, a nyomozó további 1 nyomot fedez fel azon a helyszínen.",
+        "traits": "Gyakorlott."
+    },
+    {
+        "code": "01040",
+        "flavor": "Lencse egy láthatatlan világra, mely oly dolgokat képes felfedni, amiket jobb volt rejtve tudni.",
+        "name": "Nagyító",
+        "text": "Gyors.\nKapsz +1 [intellect]-t amikor nyomozol.\n[free] Ha nincs nyom a helyszíneden: Vedd vissza a Nagyítót a kezedbe.",
+        "traits": "Tárgy. Szerszám.",
+        "slot": "Kéz"
+    },
+    {
+        "code": "01041",
+        "flavor": "Amiatt félik, amit velük fog tenni? Vagy amiatt, amit veled tesz majd?",
+        "name": "Itzamna korongja",
+        "subname": "Oltalmazó amulett",
+        "text": "[reaction] Amikor egy nem-[[Elit]] ellenség megjelenik a helyszíneden, dobd el Itzamna korongját: Dobd el azt az ellenséget.",
+        "traits": "Tárgy. Ereklye.",
+        "slot": "Tartozék"
+    },
+    {
+        "code": "01042",
+        "flavor": "Állítólag minden részletre kiterjedő mű, ám minél többet bújom lapjait, annál inkább rá kell eszméljek, hogy semmit sem tudunk a mindenség igaz valójáról.",
+        "name": "Enciklopédia",
+        "text": "[action] Merítsd ki az Enciklopédiát: Válassz egy nyomozót a helyszíneden, aki a választásod szerinti képességéhez +2 értéket kap a fázis végéig.",
+        "traits": "Tárgy. Kötet.",
+        "slot": "Kéz"
+    },
+    {
+        "code": "01043",
+        "name": "Titokzatos kutatás",
+        "text": "Gyors. Csak a saját fordulód során játszhatod ki.\nVálassz egy nyomozót a helyszíneden, aki húz 3 kártyát.",
+        "traits": "Megérzés."
+    },
+    {
+        "code": "01044",
+        "name": "Rugóskés",
+        "text": "Gyors.\n[action]: <b>Harc.</b> Ha legalább +2-vel sikerül a próba, a támadás +1 sérülést okoz.",
+        "traits": "Tárgy. Fegyver. Közelharci. Tiltott.",
+        "slot": "Kéz"
+    },
+    {
+        "code": "01045",
+        "name": "Betörés",
+        "text": "[action] Merítsd ki a Betörést: <b>Nyomozás.</b> Ha sikeres, nyom felfedezése helyett kapsz 3 erőforrást.",
+        "traits": "Tehetség. Tiltott."
+    },
+    {
+        "code": "01046",
+        "name": "Zsebtolvajlás",
+        "text": "[reaction] Miután elkerülsz egy ellenséget, merítsd ki a Zsebtolvajlást: Húzz 1 kártyát.",
+        "traits": "Tehetség. Tiltott."
+    },
+    {
+        "code": "01047",
+        "name": ".41 Derringer",
+        "text": "Használat (3 töltény).\n[action] Költs el 1 töltényt: <b>Harc.</b> Kapsz +2 [combat]-t ehhez a támadáshoz. Ha legalább +2-vel sikerül a próba, a támadás +1 sérülést okoz.",
+        "traits": "Tárgy. Fegyver. Lőfegyver. Tiltott.",
+        "slot": "Kéz"
+    },
+    {
+        "code": "01048",
+        "flavor": "\"Mississippi államban születtem, de Louisiana jobban csengett.\"",
+        "name": "Leo De Luca",
+        "subname": "A louisianai oroszlán",
+        "text": "Egy további akciót hajthatsz végre a saját fordulód során.",
+        "traits": "Társ. Bűnöző.",
+        "slot": "Társ"
+    },
+    {
+        "code": "01049",
+        "name": "Nehéz idők",
+        "text": "[free] Költs el 1 erőforrást: Kapsz +1 [combat]-t ehhez a képességpróbához.\n[free] Költs el 1 erőforrást: Kapsz +1 [agility]-t ehhez a képességpróbához.",
+        "traits": "Tehetség."
+    },
+    {
+        "code": "01050",
+        "name": "Megtévesztő",
+        "text": "Gyors. Csak a saját fordulód során játszhatod ki.\nElszabadulsz minden veled szembeszálló ellenségtől, majd mozogj át egy olyan felfedett helyszínre, ahol nincs ellenség.",
+        "traits": "Taktika."
+    },
+    {
+        "code": "01051",
+        "name": "Hátba szúrás",
+        "text": "<b>Harc.</b> Ez a támadás [agility]-t használ [combat] helyett. Ez a támadás +2 sérülést okoz.",
+        "traits": "Taktika."
+    },
+    {
+        "code": "01052",
+        "name": "Orvtámadás",
+        "text": "Okozz 2 sérülést egy kimerített ellenségnek a helyszíneden.",
+        "traits": "Taktika."
+    },
+    {
+        "code": "01053",
+        "name": "Haszonleső",
+        "text": "Csak általad végrehajtott képességpróbánál használható fel.\nHa legalább +3-mal sikerül a próba, a Haszonleső eldobás helyett vedd vissza a kezedbe a próba végén.",
+        "traits": "Ösztönös."
+    },
+    {
+        "code": "01054",
+        "flavor": "\"Mississippi államban születtem, de Louisiana jobban csengett.\"",
+        "name": "Leo De Luca",
+        "subname": "A louisianai oroszlán",
+        "text": "Egy további akciót hajthatsz végre a saját fordulód során.",
+        "traits": "Társ. Bűnöző.",
+        "slot": "Társ"
+    },
+    {
+        "code": "01055",
+        "name": "Besurranó tolvaj",
+        "text": "Kapsz +1 [agility]-t.\n[action] Merítsd ki a Besurranó tolvajt: Minden veled szembeszálló ellenségtől elszabadulsz, majd mozogj át egy kapcsolódó helyszínre. Ez az akció nem idézi elő az alkalmi támadásokat.",
+        "traits": "Társ. Bűnöző.",
+        "slot": "Társ"
+    },
+    {
+        "code": "01056",
+        "name": "Svindli",
+        "text": "Gyors. Negatív módosítóval rendelkező káoszjelző felhúzását követően játszd ki.\nVáltoztasd meg a jelző - előjelét + előjelre.",
+        "traits": "Szerencse. Megérzés."
+    },
+    {
+        "code": "01057",
+        "flavor": "\"Megint én nyertem! Bocsáss meg, édes, a mai nem a te estéd.\"",
+        "name": "Szerencsés lapjárás",
+        "text": "Kapsz 10 erőforrást.",
+        "traits": "Szerencse."
+    },
+    {
+        "code": "01058",
+        "name": "Tiltott tudás",
+        "text": "Használat (4 titok). Ha nincs titok a Tiltott tudáson, dobd el.\n[free] Merítsd ki a Tiltott tudást és kapsz 1 iszonyatot: Mozgass át 1 titkot a Tiltott tudásról az erőforrásaid közé és kezeld azt erőforrásként.",
+        "traits": "Tehetség."
+    },
+    {
+        "code": "01059",
+        "flavor": "Akár közönséges ékszer, akár misztikus ereklye által idéztetik meg, a hit igenis valódi erővel bír.",
+        "name": "Szent rózsafüzér",
+        "text": "Kapsz +1 [willpower]-t.",
+        "traits": "Tárgy. Bűvtárgy.",
+        "slot": "Tartozék"
+    },
+    {
+        "code": "01060",
+        "name": "Sorvasztás",
+        "text": "Használat (4 töltet).\n[action] Költs el 1 töltetet: <b>Harc.</b> Ez a támadás [willpower]-t használ [combat] helyett és +1 sérülést okoz. Ha egy [skull], [cultist], [tablet], [elder_thing] vagy [auto_fail] jelzőt húzol a támadás során, kapsz 1 iszonyatot.",
+        "traits": "Varázslat.",
+        "slot": "Mágikus"
+    },
+    {
+        "code": "01061",
+        "name": "Jövendölés",
+        "text": "Használat (3 töltet).\n[action] Merítsd ki a Jövendölést és költs el 1 töltetet: Nézd meg bármelyik nyomozó húzópaklijának vagy a találkozáspaklinak a felső 3 kártyáját. Helyezd őket vissza tetszőleges sorrendben.",
+        "traits": "Varázslat.",
+        "slot": "Mágikus"
+    },
+    {
+        "code": "01062",
+        "name": "Titkos tanok",
+        "text": "[free] Költs el 1 erőforrást: Kapsz +1 [willpower]-t ehhez a képességpróbához.\n[free] Költs el 1 erőforrást: Kapsz +1 [intellect]-t ehhez a képességpróbához.",
+        "traits": "Tehetség."
+    },
+    {
+        "code": "01063",
+        "name": "Mágikus beavatott",
+        "text": "<b>Kötelező</b> - Miután a Mágikus beavatott játékba kerül: Helyezz rá 1 végzetjelzőt.\n[free] Merítsd ki a Mágikus beavatottat: Nézd meg a húzópaklid felső 3 kártyáját és húzz fel közülük egy [[Varázslat]] kártyát. Keverd meg a húzópaklidat.",
+        "traits": "Társ. Varázsló.",
+        "slot": "Társ"
+    },
+    {
+        "code": "01064",
+        "flavor": "\"A tudatlanság nyugalmas szigetén élünk a végtelenség fekete óceánjának közepén, s nem úgy rendeltetett, hogy messzire utazzunk innen.\" <cite>H. P. Lovecraft: Cthulhu hívása</cite>",
+        "name": "Lángok vonzásában",
+        "text": "Húzd fel a találkozáspakli felső kártyáját. Azután fedezz fel 2 nyomot a helyszíneden.",
+        "traits": "Megérzés."
+    },
+    {
+        "code": "01065",
+        "name": "Oltalmazó védőpecsét",
+        "text": "Gyors. Játszd ki, amikor felhúzol egy nem-gyengeség alattomosságkártyát.\nSemlegesítsd a kártya felfedés hatását. Azután kapsz 1 iszonyatot.",
+        "traits": "Varázslat. Lélek."
+    },
+    {
+        "code": "01066",
+        "name": "Vakító fény",
+        "text": "<b>Elkerülés.</b> Ez az elkerülés [willpower]-t használ [agility] helyett. Ha sikeres, okozz 1 sérülést az elkerült ellenségnek. Ha egy [skull], [cultist], [tablet], [elder_thing] vagy [auto_fail] jelzőt húzol az elkerüléspróba során, veszítesz 1 akciót ebben a fordulóban.",
+        "traits": "Varázslat."
+    },
+    {
+        "code": "01067",
+        "flavor": "A holnap fényét csakis úgy láthatjuk meg, ha szilárdan kiállunk a sötétséggel szemben.",
+        "name": "Vakmerő",
+        "text": "Ha ez a képességpróba sikeres, gyógyíts meg 1 iszonyatot.",
+        "traits": "Ösztönös."
+    },
+    {
+        "code": "01068",
+        "name": "Tudattörés",
+        "text": "Gyors. Játszd ki, miután egy fázis elkezdődik.\nVálassz egy nem-[[Elit]] ellenséget a helyszíneden. A fázis végéig kezeld őgy, mintha a választott ellenség nyomtatott szövegdoboza üres lenne (a [[jellemzőit]] kivéve).",
+        "traits": "Varázslat."
+    },
+    {
+        "code": "01069",
+        "name": "Vakító fény",
+        "text": "<b>Elkerülés.</b> Ez az elkerülés [willpower]-t használ [agility] helyett. Ha sikeres, okozz 2 sérülést az elkerült ellenségnek. Ha egy [skull], [cultist], [tablet], [elder_thing] vagy [auto_fail] jelzőt húzol az elkerüléspróba során, veszítesz 1 akciót ebben a fordulóban és kapsz 1 iszonyatot.",
+        "traits": "Varázslat."
+    },
+    {
+        "code": "01070",
+        "name": "Árnyak könyve",
+        "text": "1 további mágikus férőhelyed van.\n[action] Merítsd ki az Árnyak könyvét: Helyezz 1 töltetet egy általad irányított [[Varázslat]] eszközre.",
+        "traits": "Tárgy. Kötet.",
+        "slot": "Kéz"
+    },
+    {
+        "code": "01071",
+        "name": "Groteszk szobor",
+        "text": "Használat (4 töltet). Ha nincs töltet a Groteszk szobron, dobd el.\n[reaction] Amikor húznál egy káoszjelzőt, költs el 1 töltetet: 1 helyett 2 káoszjelzőt húzz. Válaszd ki az egyiket, amelyiket végrehajtod, a másikat pedig hagyd figyelmen kívül.",
+        "traits": "Tárgy. Ereklye.",
+        "slot": "Kéz"
+    },
+    {
+        "code": "01072",
+        "flavor": "A kabát nem a legdivatosabb választás, de melegen tart, vastagsága pedig megnyugtató.",
+        "name": "Bőrkabát",
+        "traits": "Tárgy. Páncél.",
+        "slot": "Test"
+    },
+    {
+        "code": "01073",
+        "name": "Hasznosítás",
+        "text": "[reaction] Miután legalább +2-vel sikerül egy nyomozáspróbád, merítsd ki a Hasznosítást: Válassz egy [[Tárgy]] kártyát a dobópaklidból és vedd a kezedbe.",
+        "traits": "Tehetség."
+    },
+    {
+        "code": "01074",
+        "name": "Baseballütő",
+        "text": "[action]: <b>Harc.</b> Kapsz +2 [combat]-t ehhez a támadáshoz. Ez a támadás +1 sérülést okoz. Ha egy [skull] vagy [auto_fail] jelzőt húzol e támadás során, a támadás végrehajtása után dobd el a Baseballütőt.",
+        "traits": "Tárgy. Fegyver. Közelharci.",
+        "slot": "Kéz x2"
+    },
+    {
+        "code": "01075",
+        "flavor": "Azt állították, szerencsét hoz majd nekem. Nem mondhatnám, hogy igazuk lett. Most viszont már úgy érzem, hogy ha megszabadulnék tőle, szerencsém csak még rosszabbra fordulna.",
+        "name": "Nyúlláb",
+        "text": "[reaction] Miután elbuksz egy képességpróbát, merítsd ki a Nyúllábat: Húzz 1 kártyát.",
+        "traits": "Tárgy. Bűvtárgy.",
+        "slot": "Tartozék"
+    },
+    {
+        "code": "01076",
+        "flavor": "Az ember hiába szólította, sosem jött. Mindig is úgy tűnt, saját tervei vannak.",
+        "name": "Kóbor macska",
+        "text": "[free] Dobd el a Kóbor macskát: Automatikusan elkerülsz egy nem-[[Elit]] ellenséget a helyszíneden.",
+        "traits": "Társ. Teremtmény.",
+        "slot": "Társ"
+    },
+    {
+        "code": "01077",
+        "name": "Kitartás",
+        "text": "[free] Költs el 1 erőforrást: Kapsz +1 [willpower]-t ehhez a képességpróbához.\n[free] Költs el 1 erőforrást: Kapsz +1 [agility]-t ehhez a képességpróbához.",
+        "traits": "Tehetség."
+    },
+    {
+        "code": "01078",
+        "flavor": "Ezzel nyerhetünk némi időt.",
+        "name": "Ravasz figyelemelterelés",
+        "text": "<b>Elkerülés.</b> Automatikusan elkerülöd az összes ellenséget a helyszíneden.",
+        "traits": "Taktika."
+    },
+    {
+        "code": "01079",
+        "name": "\"Nézd, mit találtam!\"",
+        "text": "Gyors. Játszd ki, miután egy nyomozás során egy képességpróbádat legfeljebb -2-vel veszíted el.\nFedezz fel 2 nyomot a helyszíneden.",
+        "traits": "Szerencse."
+    },
+    {
+        "code": "01080",
+        "name": "Szerencsés!",
+        "text": "Gyors. Játszd ki, amikor elbuknál egy képességpróbát.\nKapsz ehhez a próbához +2 képességértéket.",
+        "traits": "Szerencse."
+    },
+    {
+        "code": "01081",
+        "name": "Túlélési ösztön",
+        "text": "Ha ez a képességpróba sikeres elkerülés végrehajtásakor, az elkerülést végrehajtó nyomozó minden vele szembeszálló többi ellenségtől elszabadulhat, és átmozoghat egy kapcsolódó helyszínre.",
+        "traits": "Ösztönös."
+    },
+    {
+        "code": "01082",
+        "flavor": "\"Ne attól félj, amit látsz; inkább attól, amit nem.\"",
+        "name": "Aquinnah",
+        "subname": "Az elfeledett leány",
+        "text": "[reaction] Amikor egy ellenség megtámad téged, merítsd ki Aquinnah-t és okozz neki 1 iszonyatot: Az ellenség által okozott sérülést a helyszíneden lévő másik ellenség szenvedi el helyetted. (A támadás által okozott iszonyatot viszont te szenveded el.)",
+        "traits": "Társ.",
+        "slot": "Társ"
+    },
+    {
+        "code": "01083",
+        "name": "Ez közel volt",
+        "text": "Gyors. Játszd ki, miután bárki elkerült egy nem-gyengeség, nem-[[Elit]] ellenséget a helyszíneden.\nKeverd bele azt az ellenséget a találkozáspakliba.",
+        "traits": "Szerencse."
+    },
+    {
+        "code": "01084",
+        "name": "Szerencsés!",
+        "text": "Gyors. Játszd ki, amikor elbuknál egy képességpróbát.\nKapsz ehhez a próbához +2 képességértéket. Húzz egy kártyát.",
+        "traits": "Szerencse."
+    },
+    {
+        "code": "01085",
+        "name": "Élni akarás",
+        "text": "Gyors. Csak a saját fordulód során játszhatod ki.\nA fordulód végéig ne húzz káoszjelzőt az általad végrehajtott bármilyen képességpróbák során.",
+        "traits": "Lélek."
+    },
+    {
+        "code": "01086",
+        "name": "Kés",
+        "text": "[action]: <b>Harc.</b> Kapsz +1 [combat]-t ehhez a támadáshoz.\n[action] Kés eldobása: <b>Harc.</b> Kapsz +2 [combat]-t ehhez a támadáshoz. Ez a támadás +1 sérülést okoz.",
+        "traits": "Tárgy. Fegyver. Közelharci.",
+        "slot": "Kéz"
+    },
+    {
+        "code": "01087",
+        "name": "Zseblámpa",
+        "text": "Használat (3 készlet).\n[action] Költs el 1 készletet: <b>Nyomozás.</b> A helyszíned -2 homályértéket kap ehhez a nyomozáshoz.",
+        "traits": "Tárgy. Szerszám.",
+        "slot": "Kéz"
+    },
+    {
+        "code": "01088",
+        "flavor": "Az ember sosem lehet elég felkészült.",
+        "name": "Vésztartalék",
+        "text": "Kapsz 3 erőforrást.",
+        "traits": "Ellátmány."
+    },
+    {
+        "code": "01089",
+        "flavor": "Vissza! Majd én elintézem.",
+        "name": "Kurázsi",
+        "text": "Próbánként maximum 1 használható fel.\nHa ez a képességpróba sikeres, húzz 1 kártyát.",
+        "traits": "Ösztönös."
+    },
+    {
+        "code": "01090",
+        "flavor": "Végre-valahára, ráleltem!",
+        "name": "Észlelés",
+        "text": "Próbánként maximum 1 használható fel.\nHa ez a képességpróba sikeres, húzz 1 kártyát.",
+        "traits": "Gyakorlott."
+    },
+    {
+        "code": "01091",
+        "flavor": "Pusztulj, bestia!",
+        "name": "Erőfölény",
+        "text": "Próbánként maximum 1 használható fel.\nHa ez a képességpróba sikeres, húzz 1 kártyát.",
+        "traits": "Gyakorlott."
+    },
+    {
+        "code": "01092",
+        "flavor": "Túl könnyű.",
+        "name": "Kézügyesség",
+        "text": "Próbánként maximum 1 használható fel.\nHa ez a képességpróba sikeres, húzz 1 kártyát.",
+        "traits": "Ösztönös."
+    },
+    {
+        "code": "01093",
+        "flavor": "A legönzetlenebb tetteket néha épp a legkülönösebb helyzetek idézik elő.",
+        "name": "Váratlan bátorság",
+        "text": "Próbánként maximum 1 használható fel.",
+        "traits": "Ösztönös."
+    },
+    {
+        "code": "01094",
+        "flavor": "Pár pisztolygolyó az egy dolog... egy sor harminccentis agyar viszont egészen más.",
+        "name": "Golyóálló mellény",
+        "traits": "Tárgy. Páncél.",
+        "slot": "Test"
+    },
+    {
+        "code": "01095",
+        "flavor": "Nemzedékek óta a családomban öröklődik. Vigyázz rá, és vigyázni fog rád.",
+        "name": "Ősi Jeles amulett",
+        "traits": "Tárgy. Ereklye.",
+        "slot": "Tartozék"
+    },
+    {
+        "code": "01096",
+        "flavor": "Várjunk csak... hol vagyok? Mit is csináltam?",
+        "name": "Emlékezetvesztés",
+        "text": "<b>Felfedés</b> - Válassz ki 1 kártyát a kezedből, a többit pedig dobd el.",
+        "traits": "Őrület."
+    },
+    {
+        "code": "01097",
+        "flavor": "Mi volt ez a zaj?",
+        "name": "Üldözési mánia",
+        "text": "<b>Felfedés</b> - Dobd el az összes erőforrásodat.",
+        "traits": "Őrület."
+    },
+    {
+        "code": "01098",
+        "name": "Kísértve",
+        "text": "<b>Felfedés</b> - Helyezd a Kísértve kártyát a fenyegetésterületedre. Minden képességed -1 értéket kap.\n[action] [action]: Dobd el a Kísértve kártyát.",
+        "traits": "Átok."
+    },
+    {
+        "code": "01099",
+        "name": "Elmebaj",
+        "text": "<b>Felfedés</b> - Helyezd az Elmebajt a fenyegetésterületedre.\n<b>Kötelező</b> - Miután kapsz legalább 1 iszonyatot: Kapsz 1 közvetlen sérülést.\n[action] [action]: Dobd el az Elmebajt.",
+        "traits": "Őrület."
+    },
+    {
+        "code": "01100",
+        "name": "Kényszerbetegség",
+        "text": "<b>Felfedés</b> - Helyezd a Kényszerbetegséget a fenyegetésterületedre.\n<b>Kötelező</b> - Miután kapsz legalább 1 sérülést: Kapsz 1 közvetlen iszonyatot.\n[action] [action]: Dobd el a Kényszerbetegséget.",
+        "traits": "Őrület."
+    },
+    {
+        "code": "01101",
+        "flavor": "Tudtad te, hogy nem az O'Bannion bandától kellett volna kölcsönkérned. Úgy tűnik, mindig a lehető legrosszabbkor akarják behajtani a tartozást.",
+        "name": "Alvilági behajtó",
+        "text": "<b>Préda</b> - Csak a tulajdonosa.\nVadász.\n[action] Költs el 4 erőforrást: <b>Egyezkedés.</b> Dobd el az Alvilági behajtót.",
+        "traits": "Emberszerű. Bűnöző."
+    },
+    {
+        "code": "01102",
+        "flavor": "Sohasem fogod elfelejteni a napot, amikor megismerted az Ezüst Alkony Páholy belső körének valódi titkait. Az igazság pedig túlságosan is szörnyű ahhoz, hogy életben hagyjanak téged.",
+        "name": "Ezüst Alkony oltárszolga",
+        "text": "<b>Préda</b> - Csak a tulajdonosa.\nVadász.\n<b>Kötelező</b> - Miután az Ezüst Alkony oltárszolga támad: Helyezz 1 végzetjelzőt az aktuális cselekményre.",
+        "traits": "Emberszerű. Kultista. Ezüst Alkony."
+    },
+    {
+        "code": "01103",
+        "flavor": "Minden hiába, akkor sem hiszi el, hogy neked semmi közöd azokhoz a gyilkosságokhoz.",
+        "name": "Megrögzött detektív",
+        "text": "<b>Préda</b> - Csak a tulajdonosa.\nVadász.\nAmíg a Megrögzött detektív a helyszíneden van, kezeld úgy a nyomozódat, mintha a nyomtatott szövegdoboza üres lenne (a [[jellemzőit]] kivéve).",
+        "traits": "Emberszerű. Detektív."
+    }
+]

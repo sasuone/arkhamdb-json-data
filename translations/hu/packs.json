@@ -1,0 +1,374 @@
+[
+    {
+        "code": "aof",
+        "name": "Aura of Faith"
+    },
+    {
+        "code": "aon",
+        "name": "All or Nothing"
+    },
+    {
+        "code": "apot",
+        "name": "A Phantom of Truth"
+    },
+    {
+        "code": "bad",
+        "name": "Bad Blood"
+    },
+    {
+        "code": "bbt",
+        "name": "Before the Black Throne"
+    },
+    {
+        "code": "blbe",
+        "name": "The Blob That Ate Everything ELSE!"
+    },
+    {
+        "code": "blob",
+        "name": "The Blob That Ate Everything"
+    },
+    {
+        "code": "bob",
+        "name": "Blood of Baalshandor"
+    },
+    {
+        "code": "bota",
+        "name": "Vér az oltáron"
+    },
+    {
+        "code": "bsr",
+        "name": "Black Stars Rise"
+    },
+    {
+        "code": "btb",
+        "name": "By the Book"
+    },
+    {
+        "code": "coh",
+        "name": "Carnevale of Horrors"
+    },
+    {
+        "code": "core",
+        "name": "Alapszett"
+    },
+    {
+        "code": "cotr",
+        "name": "Curse of the Rougarou"
+    },
+    {
+        "code": "dca",
+        "name": "Dim Carcosa"
+    },
+    {
+        "code": "def",
+        "name": "Devil Reef"
+    },
+    {
+        "code": "dre",
+        "name": "Dark Revelations"
+    },
+    {
+        "code": "dsm",
+        "name": "Dark Side of the Moon"
+    },
+    {
+        "code": "dwl",
+        "name": "A dunwichi örökség"
+    },
+    {
+        "code": "eoec",
+        "name": "Edge of the Earth Campaign Expansion"
+    },
+    {
+        "code": "eoep",
+        "name": "Edge of the Earth Investigator Expansion"
+    },
+    {
+        "code": "eotp",
+        "name": "Echoes of the Past"
+    },
+    {
+        "code": "fgg",
+        "name": "For the Greater Good"
+    },
+    {
+        "code": "fhvc",
+        "name": "The Feast of Hemlock Vale Campaign Expansion"
+    },
+    {
+        "code": "fhvp",
+        "name": "The Feast of Hemlock Vale Investigator Expansion"
+    },
+    {
+        "code": "fof",
+        "name": "Fortune and Folly"
+    },
+    {
+        "code": "guardians",
+        "name": "Guardians of the Abyss"
+    },
+    {
+        "code": "har",
+        "name": "Harvey Walters"
+    },
+    {
+        "code": "hfa",
+        "name": "Hunting for Answers"
+    },
+    {
+        "code": "hhg",
+        "name": "Horror in High Gear"
+    },
+    {
+        "code": "hote",
+        "name": "Heart of the Elders"
+    },
+    {
+        "code": "hotel",
+        "name": "Murder at the Excelsior Hotel"
+    },
+    {
+        "code": "hoth",
+        "name": "Hour of the Huntress"
+    },
+    {
+        "code": "icc",
+        "name": "In the Clutches of Chaos"
+    },
+    {
+        "code": "iotv",
+        "name": "Ire of the Void"
+    },
+    {
+        "code": "itd",
+        "name": "In Too Deep"
+    },
+    {
+        "code": "itm",
+        "name": "Into the Maelstrom"
+    },
+    {
+        "code": "jac",
+        "name": "Jacqueline Fine"
+    },
+    {
+        "code": "lif",
+        "name": "A Light in the Fog"
+    },
+    {
+        "code": "litas",
+        "name": "Elveszve Tér s Idő útvesztőiben"
+    },
+    {
+        "code": "lod",
+        "name": "The Lair of Dagon"
+    },
+    {
+        "code": "lol",
+        "name": "The Labyrinths of Lunacy"
+    },
+    {
+        "code": "ltr",
+        "name": "Laid to Rest"
+    },
+    {
+        "code": "mtt",
+        "name": "Machinations Through Time"
+    },
+    {
+        "code": "nat",
+        "name": "Nathaniel Cho"
+    },
+    {
+        "code": "otr",
+        "name": "On the Road Again"
+    },
+    {
+        "code": "pap",
+        "name": "Pistols and Pearls"
+    },
+    {
+        "code": "pnr",
+        "name": "Point of No Return"
+    },
+    {
+        "code": "promo",
+        "name": "Promo"
+    },
+    {
+        "code": "ptc",
+        "name": "The Path to Carcosa"
+    },
+    {
+        "code": "ptr",
+        "name": "Path of the Righteous"
+    },
+    {
+        "code": "rcore",
+        "name": "Átdolgozott alapszett"
+    },
+    {
+        "code": "rod",
+        "name": "Read or Die"
+    },
+    {
+        "code": "rop",
+        "name": "Relics of the Past"
+    },
+    {
+        "code": "rtdwl",
+        "name": "Return to the Dunwich Legacy"
+    },
+    {
+        "code": "rtnotz",
+        "name": "Return to the Night of the Zealot"
+    },
+    {
+        "code": "rtptc",
+        "name": "Return to the Path to Carcosa"
+    },
+    {
+        "code": "rtr",
+        "name": "Red Tide Rising"
+    },
+    {
+        "code": "rttcu",
+        "name": "Return to the Circle Undone"
+    },
+    {
+        "code": "rttfa",
+        "name": "Return to the Forgotten Age"
+    },
+    {
+        "code": "sfk",
+        "name": "The Search for Kadath"
+    },
+    {
+        "code": "sha",
+        "name": "Shattered Aeons"
+    },
+    {
+        "code": "ste",
+        "name": "Stella Clark"
+    },
+    {
+        "code": "tbb",
+        "name": "The Boundary Beyond"
+    },
+    {
+        "code": "tcoa",
+        "name": "The City of Archives"
+    },
+    {
+        "code": "tcu",
+        "name": "The Circle Undone"
+    },
+    {
+        "code": "tdcc",
+        "name": "The Drowned City Campaign Expansion"
+    },
+    {
+        "code": "tdcp",
+        "name": "The Drowned City Investigator Expansion"
+    },
+    {
+        "code": "tde",
+        "name": "The Dream-Eaters"
+    },
+    {
+        "code": "tdg",
+        "name": "The Deep Gate"
+    },
+    {
+        "code": "tdor",
+        "name": "The Dirge of Reason"
+    },
+    {
+        "code": "tdoy",
+        "name": "The Depths of Yoth"
+    },
+    {
+        "code": "tece",
+        "name": "Az Essex megyei gyors"
+    },
+    {
+        "code": "tfa",
+        "name": "The Forgotten Age"
+    },
+    {
+        "code": "tftbw",
+        "name": "To Fight the Black Wind"
+    },
+    {
+        "code": "tic",
+        "name": "The Innsmouth Conspiracy"
+    },
+    {
+        "code": "tmg",
+        "name": "The Midwinter Gala"
+    },
+    {
+        "code": "tmm",
+        "name": "A Miskatonic Múzeum"
+    },
+    {
+        "code": "tof",
+        "name": "Threads of Fate"
+    },
+    {
+        "code": "tpm",
+        "name": "The Pallid Mask"
+    },
+    {
+        "code": "tsh",
+        "name": "A Thousand Shapes of Horror"
+    },
+    {
+        "code": "tskc",
+        "name": "The Scarlet Keys Campaign Expansion"
+    },
+    {
+        "code": "tskp",
+        "name": "The Scarlet Keys Investigator Expansion"
+    },
+    {
+        "code": "tsn",
+        "name": "The Secret Name"
+    },
+    {
+        "code": "tuo",
+        "name": "The Unspeakable Oath"
+    },
+    {
+        "code": "uad",
+        "name": "Union and Disillusion"
+    },
+    {
+        "code": "uau",
+        "name": "Dimenziótlan és láthatatlan"
+    },
+    {
+        "code": "wda",
+        "name": "Hol kárhozat vár"
+    },
+    {
+        "code": "wgd",
+        "name": "Where the Gods Dwell"
+    },
+    {
+        "code": "win",
+        "name": "Winifred Habbamock"
+    },
+    {
+        "code": "woc",
+        "name": "Weaver of the Cosmos"
+    },
+    {
+        "code": "wog",
+        "name": "War of the Outer Gods"
+    },
+    {
+        "code": "wos",
+        "name": "The Wages of Sin"
+    }
+]
