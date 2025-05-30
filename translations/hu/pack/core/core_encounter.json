@@ -1,122 +1,122 @@
 [
     {
         "code": "01104",
-        "name": "The Gathering",
-        "text": "Easy / Standard\n[skull] -X. X is the number of [[Ghoul]] enemies at your location.\n[cultist] -1. If you fail, take 1 horror.\n[tablet] -2. If there is a [[Ghoul]] enemy at your location, take 1 damage.\n",
-        "back_text": "Hard / Expert\n[skull] -2. If you fail, after this skill test, search the encounter deck and discard pile for a [[Ghoul]] enemy, and draw it. Shuffle the encounter deck.\n[cultist] Reveal another token. If you fail, take 2 horror.\n[tablet] -4. If there is a [[Ghoul]] enemy at your location, take 1 damage and 1 horror."
+        "name": "Az összejövetel",
+        "text": "Könnyű / Átlagos\n[skull] -X. X a [[Ghoul]] ellenségek száma a helyszíneden.\n[cultist] -1. Ha elbukod, kapsz 1 iszonyatot.\n[tablet] -2. Ha van [[Ghoul]] ellenség a helyszíneden, kapsz 1 sérülést.\n",
+        "back_text": "Nehéz / Szakértő\n[skull] -2. Ha elbukod, a képességpróba után keress ki és húzz fel a találkozás húzó- vagy dobópaklijából egy [[Ghoul]] ellenséget. Azután keverd meg a találkozás húzópakliját.\n[cultist] Húzz egy másik jelzőt. Ha elbukod, kapsz 2 iszonyatot.\n[tablet] -4. Ha van [[Ghoul]] ellenség a helyszíneden, kapsz 1 sérülést és 1 iszonyatot."
     },
     {
         "code": "01105",
-        "flavor": "It is late at night. You are holed up in your study, researching the bloody disappearances that have been taking place in the region. A few hours into your research, you hear the sound of strange chanting coming from your parlor, down the hall. At the same time, you hear dirt churning, as if something were digging beneath the floor.",
-        "name": "What's Going On?!",
-        "back_name": "A Lapse in Time",
-        "back_flavor": "Your house continues to change before your very eyes. The walls have decayed, and the ground in many rooms has turned to dirt. It is almost as if you have been transported somewhere else entirely, although every now and again you recognize elements of your former home.",
-        "back_text": "The lead investigator must decide (choose one): Either each investigator discards 1 card at random from his or her hand, or the lead investigator takes 2 horror."
+        "flavor": "Késő este van. Dolgozószobád rejtekében a környéken történt véres eltűnések ügyei felett görnyedsz. Már órák óta vizsgálódsz, mikor a folyosó végéről, társalgód irányából különös kántálás hangja üti meg füledet. Egyszersmind valamiféle kotorászó neszre leszel figyelmes, mintha valami ásna a padló alatt.",
+        "name": "Mi folyik itt?!",
+        "back_name": "Az idő múlása",
+        "back_flavor": "Házad a szemed láttára alakul át. A falak málladoznak, a padló pedig több helyiságben is a földdé enyészett. Mintha csak egy egészen más helyre kerültél volna, noha lépten-nyomon ráismersz hajdani otthonod részleteire.",
+        "back_text": "A főnyomozónak döntenie kell (válassz egyet): Vagy minden nyomozó eldob a kezéből 1 kártyát véletlenszerűen, vagy a főnyomozó kap 2 iszonyatot."
     },
     {
         "code": "01106",
-        "flavor": "The floor beneath you is giving way, and you see a vast network of tunnels, twisting into the darkness below. Shapes and silhouettes of strange creatures move swiftly through the tunnels, trying to find a way up. You probably don't want to be here when they do...",
-        "name": "Rise of the Ghouls",
-        "back_name": "The Tunnels Below",
-        "back_flavor": "A feral beast, roughly humanoid with a canine cast and hooves for feet, tears through the ground in front of you. Below the floor, you can see vast tunnels beneath your house. Fiendish howling echoes from deep within the underground caverns.",
-        "back_text": "Shuffle the encounter discard pile into the encounter deck. Discard cards from the top of the encounter deck until a [[Ghoul]] enemy is discarded. The lead investigator draws that enemy."
+        "flavor": "Lábad alatt beszakad a padló, kiterjedt alagúthálózat látványát tárva szemed elé, mely az odalenti sötétségben kanyarog. A járatokban különös teremtmények árnyait látod fürgén mocorogni, amint a felfelé vezető utat kutatják. Aligha akarsz a közelben lenni, mikor végül meglelik azt...",
+        "name": "A ghoulok felbukkanása",
+        "back_name": "Alagutak a mélyben",
+        "back_flavor": "A talajt egy otrombamód emberalakzatú, kutyaszerű vonásokat bíro, patás lábú, ádáz bestia töri át előtted. Odalent, házad padlózata alatt terjengős alagutakat látsz nyújtózni. A földalatti üregek mélyéről ördögi üvöltés harsan.",
+        "back_text": "Keverd össze a találkozás húzópakliját a dobópaklijával. Egyesével dobj el a tetejéről kártyákat, amíg el nem dobsz egy [[Ghoul]] ellenséget. A főnyomozó húzza fel azt az ellenséget."
     },
     {
         "code": "01107",
-        "flavor": "You hear a crazed howl outside, and suddenly all the creatures turn their attention to that sound. They rush to escape the house, breaking down doors and clawing at everything in their way.",
-        "name": "They're Getting Out!",
-        "text": "<b>Forced</b> - At the end of the enemy phase: Each unengaged [[Ghoul]] enemy moves 1 location towards the Parlor.\n<b>Forced</b> - At the end of the round: Place 1 doom on this agenda for each [[Ghoul]] enemy in the Hallway or Parlor.",
-        "back_name": "The Ghouls Break Free",
-        "back_flavor": "The ground begins to shake and you can see claws rising up from the dirt as uncanny creatures desperately try to claw their way out of the ground all around you. Everywhere you turn, you see monsters rising from the earth. Terrified, you flee as fast as you can.",
-        "back_text": "- If the investigators are at Act 1 or 2, they are trapped inside the house as the ghouls tear them apart. <b>(→R3)</b>\n- If the investigators are at Act 3, they barely escape with their lives, allowing the ghouls to run rampant. Each investigator that has not resigned is defeated and suffers 1 physical trauma."
+        "flavor": "Odakintről tébolyult üvöltés üti meg füledet, és hirtelen az összes teremtmény e hangra figyelmez. Fejvesztve menekülnek a házból, ajtókat zúzva szét, és lerombolva mindent, ami csak az útjukba kerül.",
+        "name": "Ki fognak jutni!",
+        "text": "<b>Kötelező</b> - Az ellenségfázis végén: Minden nem-szembeszálló [[Ghoul]] ellenség 1 helyszínnel közelebb mozog a Társalgóhoz.\n<b>Kötelező</b> - A kör végén: Helyezz 1 végzetjelzőt erre a cselekményre minden Társalgóban vagy Folyosón lévő [[Ghoul]] ellenség után.",
+        "back_name": "A ghoulok kiszabadulnak",
+        "back_flavor": "A talaj rázkódni kezd, a földből pedig karmok nyúlnak ki, ahogy körülötted mindenütt hátborzongató teremtmények igyekeznek kiásni magokat odalentről. Bármerre is nézel, szörnyeket látsz kibújni a földből. Rémületedben menekülőre fogod, és szaladsz inad szakadtából.",
+        "back_text": "- Ha a nyomozók még az 1. vagy 2. felvonásnál járnak, ők csapdába estek a házban, miközben ghoulok marcangolják szét őket. <b>(→M3)</b>\n- Ha a nyomozók 1 3. felvonásnál járnak, épphogy csak sikerül elevenen kimenekülniük, hagyván, hogy a ghoulok szabadon garázdálkodjanak. Minden nyomozó, aki még nem adta fel, legyőztetik, és elszenved 1 testi károsodást."
     },
     {
         "code": "01108",
-        "flavor": "As you leap to investigate, the door to your study vanishes before your eyes, leaving behind only solid wall. You're trapped inside your study until you can find another way out.",
-        "name": "Trapped",
-        "back_name": "The Door on the Floor",
-        "back_flavor": "You notice that the edges of your newly purchased rug are tattered and mud-stained. Finding this odd, you shift the furniture aside and pull back the rug. To your surprise, you see the door leading out of your study. You slowly turn the knob, and the door swings open, revealing your hallway below.\nYou jump through the doorway, landing on your feet on soft dirt. The door to the study slams shut above you. The smell of burning wood fills the narrow hall, intermingled with the scent of rot and decay.",
-        "back_text": "Put into play the set-aside Hallway, Cellar, Attic, and Parlor.\nDiscard each enemy in the Study.\nPlace each investigator in the Hallway.\nRemove the Study from the game."
+        "flavor": "Már épp indulnál, hogy belevesd magad a nyomozásba, mikor dolgozószobád ajtaja szemed láttára köddé válik, helyén pedig csak a tömör fal marad. Amíg más kiutat nem lelsz, saját dolgozószobád foglya maradsz.",
+        "name": "Csapdába esve",
+        "back_name": "Ajtó a padlón",
+        "back_flavor": "Felfigyelsz rá, hogy újonnan vásárolt szőnyeged széle rongyos és sárfoltos. Ezt felettébb furának véled, ezért arrébb tolod a bútorokat, és felhajtod a szőnyget. Meglepetésedre dolgozószobád kijárati ajtaját pillantod meg. Lassan elfordítod a kilincset, mire az ajtó kivágódik, odalent házad folyosóját tárva fel.\nLeugrasz a nyíláson, és talpad porhanyós talajra érkezik. A dolgozószobába vezető ajtó becsapódik feletted. A keskeny folyosót égő fa illata lengi be, bomlás és rothadás bűzével elegyedve.",
+        "back_text": "Hozd játékba a félretett Folyosót, Padlást, Pincét és Társalgót.\nDobj el minden ellenséget a Dolgozószobából.\nHelyezz minden nyomozót a Folyosóra.\nTávolítsd el a Dolgozószobát a játékból."
     },
     {
         "code": "01109",
-        "flavor": "A glowing barrier blocks the path to your parlor. As you move toward it, intense heat forces you to back away. Picking up a handful of dirt, you toss it as the barrier and watch in horror as the dirt incinerates. Perhaps there's something in the cellar or attic that can help.",
-        "name": "The Barrier",
-        "text": "<b>Objective</b> - When the round ends, investigators in the hallway may, as a group, spend the requisite number of clues to advance.",
-        "back_name": "Breaking the Barrier",
-        "back_flavor": "Using the barrel from the attic, you carry ice and snow from the cellar and hurl it at the barrier. The barrier sparks and shudders as it consumes the ice, then hisses and fades out of existence.",
-        "back_text": "The barrier blocking passage into the parlor has vanished. Reveal the Parlor.\nPut the set-aside Lita Chantler into play in the Parlor.\nSpawn the set-aside Ghoul Priest in the Hallway."
+        "flavor": "A társalgódba vezető utat egy izzó akadály torlaszolja el. Amint megindulsz felé, heves forróság késztet hátrálásra. Felmarkolsz egy kupac földet, a torlasznak hajítod, és elszörnyedve figyeled, amint az porrá hamvad. Talán a pincében vagy a padláson akadhat valami használható.",
+        "name": "Az akadály",
+        "text": "<b>Küldetés</b> - A kör végén a Folyosón lévő nyomozók csoportként elkölthetik a szükséges nyomokat, hogy továbbhaladjon a történet.",
+        "back_name": "A torlasz megtörése",
+        "back_flavor": " A padlásról szerzett hordóban jeget meg havat hozol fel a pincéből, és a torlasznak hajítod azokat. Az akadály szikrát szórva és káprázva emészti fel a jeget, majd sisteregve megsemmisül.",
+        "back_text": "A Társalgó bejáratát eltorlaszoló akadály eltűnt. Fedd fel a Társalgót.\nHelyezd a Társalgóba a félretett Lita Chantlert.\nA Folyosón megjelenik a félretett Ghoul pap."
     },
     {
         "code": "01110",
-        "flavor": "A woman with a torch stands in your parlor, a glimmer of hatred in her eyes. \"What have you done to my barrier?\" she screams, furious. Before you can enter, a ghastly wail sounds behind you, and a creature wearing robes and a deer skull mask tears through the wall, advancing towards you.",
-        "name": "What Have You Done?",
-        "text": "<b>Objective</b> - If the Ghoul Priest is Defeated, advance.",
-        "back_name": "Defending the Home",
-        "back_flavor": "When the robed creature falls, the fiendish swarm burrows back into the ground and the chaos of the house quiets. But the stranger in your parlor chamber doesn't seem relieved.\n\"You broke my seal that was set to trap the ghouls within.\" She raises her torch. \"Now, we must take more direct measures and burn this hell-pit to the ground!\"",
-        "back_text": "The lead investigator must decide (choose one):\n- It was never much of a home. Burn it down! <b>(→R1)</b>\n- This hell-pit is my home! No way are we burning it! <b>(→R2)</b>"
+        "flavor": "Társalgódban egy asszony ácsorog kezében fáklyával, szemében gyűlölettel. \"Mit művelt a védőfalammal?\" - üvölti dühösen. Válaszolni készülsz, mikor kísérteties bőgés harsan mögüled, majd egy csuhás, szarvaskoponya-álarcot viselő kreatúra szakítja át a falat, és megindul feléd.",
+        "name": "Mit művelt maga?",
+        "text": "<b>Küldetés</b> - Ha a Ghoul pap legyőzetik, továbbhalad a cselekmény.",
+        "back_name": "Az otthon védelme",
+        "back_flavor": "Mikor a csuhás teremtmény elterül, a pokoli falka visszafurakodik a földbe, és a házban nyüzsgő zsivaj elcsendesül. A társalgóban ácsorgó idegen azonban nem tűnik megkönnyebbültnek.\n\"Megtörte a pecsétemet, amit azért helyeztem ide, hogy csapdába ejtsem a ghoulokat.\" - Az asszony megemeli fáklyáját. - \"Most kénytelenek leszünk durvább eszközökhöz folyamodni, és porig kell égessük ezt a pokolfészket!\"",
+        "back_text": "A főnyomozónak döntenie kell (válassz egyet):\n- Sosem volt igazán az otthonom. Gyújtsa csak fel! <b>(→M1)</b>\n- Ez a \"pokolfészek\" az én otthonom! Kizárt dolog, hogy felgyújtsuk! <b>(→M2)</b>"
     },
     {
         "code": "01111",
-        "flavor": "The door to your study has vanished.",
-        "name": "Study",
-        "back_flavor": "You've been investigating the strange events occurring in Arkham for several days now. Your deck in covered in newspaper articles, police reports, and witness accounts."
+        "flavor": "Dolgozószobád ajtaja köddé vált.",
+        "name": "Dolgozószoba",
+        "back_flavor": "Napok óta nyomozol az Arkhamban történt különös esetek után. Íróasztalod roskadásig van újságcikkekkel, rendőrségi jelentésekkel és szemtanúk beszámolóival."
     },
     {
         "code": "01112",
-        "flavor": "The walls of your house are splattered with mud, and your hardwood floor is gone, replaced with a dirt path.",
-        "name": "Hallway",
-        "back_flavor": "A moment of panic and disorientation strikes as you land upon the floor of the hallway. The world spins, as if turned on its head."
+        "flavor": "Házad falait sár borítja, és a parkettapadlód is a múlté. Helyét földút foglalja el.",
+        "name": "Folyosó",
+        "back_flavor": "Folyosód padlójára érkezvén, múló rémület és zavarodottság lesz úrrá rajtad. Forog veled a világ, mintha csak a feje tetejére állt volna."
     },
     {
         "code": "01113",
-        "flavor": "The bloody carcass of a malformed beast swings from a meat hook chained to the ceiling. Blood drains slowly from the carcass, dripping into a small barrel.",
-        "name": "Attic",
-        "text": "<b>Forced</b> - After you enter the Attic: Take 1 horror.",
-        "back_flavor": "The smell of rotten meat assaults your nostrils as you approach the attic stairs."
+        "flavor": "A mennyezetről lógó húskampón egy idomtalan bestia véres teteme himbálózik. A dögből vér szivárog, és egy kisméretű hordóba csöpög.",
+        "name": "Padlás",
+        "text": "<b>Kötelező</b> - Miután belépsz a Padlásra: Kapsz 1 iszonyatot.",
+        "back_flavor": "A padlásra vezető lépcső felé közeledvén orrodat rothadó hús bűze csapja meg."
     },
     {
         "code": "01114",
-        "flavor": "Your cellar seems to have been replaced with an underground network of icy tunnels and caverns. The cold chills you to the bone.",
-        "name": "Cellar",
-        "text": "<b>Forced</b> - After you enter the Cellar: Take 1 damage.",
-        "back_flavor": "The stairs leading down to your cellar are slick, and they glisten with a thin layer of ice..."
+        "flavor": "Úgy tűnik, pincéd helyén jeges alagutak és barlangok földalatti hálózata húzódik. A hideg a csontodig mar.",
+        "name": "Pince",
+        "text": "<b>Kötelező</b> - Miután belépsz a Pincébe: Kapsz 1 sérülést.",
+        "back_flavor": "A pincébe vezető lépcső sikamlós, felszínén pedig vékony jégréteg csillog..."
     },
     {
         "code": "01115",
-        "name": "Parlor",
-        "text": "[action] <b>Resign.</b> \"This is too much for me!\" You run out the front door, fleeing in panic.\nWhile Lita Chantler is not controlled by a player, she gains: \"[action]: <b>Parley.</b> Test [intellect] (4). If you succeed, take control of Lita Chantler.\"",
-        "back_flavor": "You're unsure what would happen if you tried to cross the threshold of the strange barrier, but based on its extreme heat, you sure as hell don't want to try.",
-        "back_text": "The entrance to the Parlor is blocked by a darkly glowing unfathomable barrier. You cannot move into the Parlor."
+        "name": "Társalgó",
+        "text": "[action] <b>Visszavonulás.</b> \"Ez már túl sok nekem!\" Kiszaladsz a bejárati ajtón, és pánik félelemtől sújtva elmenekülsz.\nAmíg Lita Chantlert egyik játékos sem irányítja, ő megkapja: \"[action]: <b>Egyezkedés.</b> Tégy [intellect] (4) próbát. Ha sikeres, átveszed Lita Chantler irányítását.\"",
+        "back_flavor": "Nem tudod, mi történne, ha megpróbálnád átlépni a különös akadály határát, de az abból áradó pokoli hőségből ítélve holtbiztos, hogy nem is akarod megkísérelni.",
+        "back_text": "A Társalgó bejáratát egy sötéten izzó, áthatolhatatlan akadály torlaszolja el. Nem tudsz belépni a Társalgóba."
     },
     {
         "code": "01116",
-        "flavor": "A figure in red robes wearing a bone mask. It gibbers and snarls before leaping to attack.",
-        "name": "Ghoul Priest",
-        "text": "<b>Prey</b> - Highest [combat].\nHunter. Retaliate.",
-        "traits": "Humanoid. Monster. Ghoul. Elite."
+        "flavor": "E vörös taláros alak arcán csontmaszkot visel. Csak pusmog és morog, majd támadásba lendül.",
+        "name": "Ghoul pap",
+        "text": "<b>Préda</b> - Legmagasabb [combat].\nVadász. Megtorló.",
+        "traits": "Emberszerű. Szörny. Ghoul. Elit."
     },
     {
         "code": "01117",
         "name": "Lita Chantler",
-        "subname": "The Zealot",
-        "text": "While you control Lita Chantler, she gains:\n\"Each investigator at your location gets +1 [combat].\n[reaction] When an investigator at your location successfully attacks a [[Monster]] enemy: That investigator deals +1 damage.\"",
-        "traits": "Ally.",
-        "slot": "Ally"
+        "subname": "A megszállott",
+        "text": "Amíg irányítod Lita Chantlert, ő megkapja:\n\"Minden nyomozó +1 [combat]-t kap a helyszíneden.\n[reaction] Amikor egy nyomozó a helyszíneden sikeresen támad meg egy [[Monster]] ellenséget: Az a nyomozó +1 sérülést okoz.\"",
+        "traits": "Társ.",
+        "slot": "Társ"
     },
     {
         "code": "01118",
-        "flavor": "A monstrous creature feeds from the rotting carcass in the attic.",
-        "name": "Flesh-Eater",
-        "text": "<b>Spawn</b> - Attic.",
-        "traits": "Humanoid. Monster. Ghoul."
+        "flavor": "E szörnyűséges teremtmény a padláson rothadó tetemből lakmározik.",
+        "name": "Húsevő",
+        "text": "<b>Megjelenés</b> - Padlás.",
+        "traits": "Emberszerű. Szörny. Ghoul."
     },
     {
         "code": "01119",
-        "flavor": "Inside the tunnels beneath the house, a massive beast tears its way out of the ice. It is covered in a think layer of frost, its breath visible in the bitter cold.",
-        "name": "Icy Ghoul",
-        "text": "<b>Spawn</b> - Cellar.",
-        "traits": "Humanoid. Monster. Ghoul."
+        "flavor": "A ház alatt húzódó alagutakban egy ormótlan fenevad tör utat magának a jégben. Testét vaskos fagyréteg borítja, lehelete pedig gőzölög a dermesztő hidegben.",
+        "name": "Jeges ghoul",
+        "text": "<b>Megjelenés</b> - Pince.",
+        "traits": "Emberszerű. Szörny. Ghoul."
     },
     {
         "code": "01120",
