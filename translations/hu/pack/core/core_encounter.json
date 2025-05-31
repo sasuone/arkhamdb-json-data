@@ -120,181 +120,181 @@
     },
     {
         "code": "01120",
-        "name": "The Midnight Masks",
-        "text": "Easy / Standard\n[skull]: -X. X is the highest number of doom on a [[Cultist]] enemy in play.\n[cultist]: -2. Place 1 doom on the nearest [[Cultist]] enemy.\n[tablet]: -3. If you fail, place 1 of your clues on your location.",
-        "back_text": "Hard / Expert\n[skull]: -X. X is the total number of doom in play.\n[cultist]: -2. Place 1 doom on each [[Cultist]] enemy in play. If there are no [[Cultist]] enemies in play, reveal another token.\n[tablet]: -4. If you fail, place all your clues on your location."
+        "name": "Az éjféli álarcok",
+        "text": "Könnyű / Átlagos\n[skull]: -X. X a legtöbb végzetjelző száma egy játékban lévő [[Kultista]] ellenségen.\n[cultist]: -2. Helyezz 1 végzetjelzőt a legközelebbi [[Kultista]] ellenségre.\n[tablet]: -3. Ha elbukod, helyezd 1 nyomodat a helyszínedre.",
+        "back_text": "Nehéz / Szakértő\n[skull]: -X. a játékban lévő végzetjelzők száma.\n[cultist]: -2. Helyezz 1 végzetjelzőt minden játékban lévő [[Kultista]] ellenségre. Ha nincs játékban [[Kultista]] ellenség, húzz egy másik jelzőt.\n[tablet]: -4. Ha elbukod, helyezd az összes nyomodat a helyszínedre."
     },
     {
         "code": "01121a",
-        "flavor": "Lita seems convinced of a conspiracy within the city of Arkham. She believes that a secret cult serves the ghouls that live in the crypts beneath the city, and that several of the cult's prominent members are scattered throughout Arkham. As you begin searching for them, you can't shake the feeling that you, too, are being hunted.",
-        "name": "Predator or Prey?",
-        "text": "[action]: <b>Resign</b>. You don't want to risk taking too long, so you head to safety with the information you've gathered."
+        "flavor": "Lita szemlátomást meg van győződve arról, hogy Arkham városában egy összeesküvés zajlik. Úgy véli, egy titkos kultusz a város alatti kriptákban tenyésző ghoulokat szolgálja, és fontosabb tagjai városszerte szétszórtan rejtőznek. Miközben kutatni kezdtek utánuk, képtelenek vagytok szabadulni az érzéstől, hogy rátok is vadásznak.",
+        "name": "Vadász vagy áldozat?",
+        "text": "[action]: <b>Visszavonulás</b>. Nem akarjátok megkockáztatni, hogy esetleg kifussatok az időből, inkább biztonsába vonultok az eddig összegyűjtött információkkal."
     },
     {
         "code": "01121b",
-        "name": "The Masked Hunter",
-        "subname": "Silently Stalking",
-        "text": "<b>Spawn</b> - Engaged with Prey.\n<b>Prey</b> - Most clues.\nHunter.\nThe Masked Hunter gets +2 health per investigator.\nWhile you are engaged with The Masked Hunter, you cannot discover or spend clues.",
-        "traits": "Humanoid. Cultist. Elite."
+        "name": "Az álarcos vadász",
+        "subname": "Csendes üldöző",
+        "text": "<b>Megjelenés</b> - Szembeszáll a Prédával.\n<b>Préda</b> - Legtöbb nyom.\nVadász.\nAz álarcos vadásznak nyomozonként +2 életereje van.\nAmíg szembeszállsz Az álarcos vadásszal, nem fedezhetsz fel és nem költhetsz el nyomokat.",
+        "traits": "Emberszerű. Kultista. Elit."
     },
     {
         "code": "01122",
-        "flavor": "The minutes pass quickly as your investigation continues.",
-        "name": "Time Is Running Short",
-        "text": "[action]: <b>Resign</b>. You don't want to risk taking too long, so you head to safety with the information you've gathered.",
-        "back_name": "The Clock Strikes Midnight",
-        "back_flavor": "Twelve bells ring out across the town. It is midnight. There is no time left to investigate the city; you must act based on the information you've collected from the cultists you've found.",
-        "back_text": "<b>(→R2)</b>"
+        "flavor": "Nyomozásotok előrehaladtával az óra is gyorsan ketyeg.",
+        "name": "Fogytán az idő",
+        "text": "[action]: <b>Visszavonulás</b>. Nem akarjátok megkockáztatni, hogy esetleg kifussatok az időből, inkább biztonsába vonultok az eddig összegyűjtött információkkal.",
+        "back_name": "Éjfélt üt az óra",
+        "back_flavor": "Tizenkét harangszó kongja be a várost. Éjfél van. Nem maradt több idő a városban kutakodni; a megtalált kultistáktól összegyűjtött információk alapján kell cselekednetek.",
+        "back_text": "<b>(→M2)</b>"
     },
     {
         "code": "01123",
-        "flavor": "You have one night to find the members of this cult and unveil their plan. The more members of the cult you can find and interrogate before midnight, the better.",
-        "name": "Uncovering the Conspiracy",
-        "text": "[action] The investigators spend 2 clues per investigator, as a group: Draw the top card of the Cultist deck.\n<b>Objective</b> - Find as many unique [[Cultist]] enemies as you can and add them to the victory display. If there are 6 unique [[Cultist]] enemies in the victory display, advance. (Note: Not all 6 of them are in the Cultist deck.)",
-        "back_name": "Secrets Unveiled",
-        "back_flavor": "You've successfully uncovered the identities of all of the cult's high-ranking members within Arkham. The man who had stalked you throughout the city was dedicated in his conviction, as was Herman, the undertaker of the graveyard. Others seemed to have been coerced to aid the cult. Ruth, the mortician, had been told that her family would be killed if she did not supply the ghouls with fresh corpses. Thankfully, you managed to help her escape the hospital safely. Peter, the professor, had to be convinced that his involvement with the cult would do more harm than good. Victoria's obsession with occult artifacts had landed her deep within the cult's web. When you confronted Drew in the asylum, he attacked you - but interestingly, he did so because he thought you were part of the cult. The deeper you delve into this conspiracy, the clearer it becomes that many lives have been ruined by it.",
-        "back_text": "<b>(→R1)</b>"
+        "flavor": "Egyetlen éjszakátok van, hogy e kultusz tagjait felkutassátok, és tervüket leleplezzétek. Minél több kultistát sikerül megtalálnotok és kivallatnotok még éjfél előtt, annál jobb.",
+        "name": "Az összeesküvés leleplezése",
+        "text": "[action] A nyomozók költsenek el 2 [per_investigator] nyomot, csoportként: Húzzátok fel a Kultistapakli felső kártyáját.\n<b>Küldetés</b> - Találjatok meg annyi egyedi [[Kultista]] ellenséget, amennyit csak tudtok és juttassátok őket a győzelmi pakliba. Amint van 6 egyedi [[Kultista]] a győzelmi pakliban, továbbhalad a történet. (Megjegyzés: Nincs mind a hat a kultistapakliban.)",
+        "back_name": "Leleplezett titkok",
+        "back_flavor": "Sikeresen felfedtétek az arkhami kultusz összes magas rangú tagjának kilétét. A férfi, aki városszerte a nyomotokban ólálkodott, elkötelezett volt hitvallása iránt, akárcsak Herman, a temetőkerti sírásó. Mások vélhetőleg kényszerből támogatták a kultuszt. Ruth-t, a kórboncnokot megfenyegették, hogy megölik a családját, ha nem látja el a ghoulokat friss holttestekkel. Hála az égnek, sikerült segítenetek neki, hogy biztonságban kijuthasson a kórházból. Petert, a professzort meg kellett győzni arról, hogy a kultusszal való közösködése több kárt okoz, mint hasznot. Victoriát okkult műalkotások iránti megszállottsága sodorta a kultusz hálójának sűrűjébe. Amikor az elmegyógyintézetben kérdőre vontátok Drew-t, ő nektek rontott - ám érdekes módon azért tett így, mert azt hitte, ti is a kultusz tagjai vagytok. Minél mélyebbre ástok eme összeesküvésben, annál világosabbá válik, milyen sok életet tehetett már tönkre.",
+        "back_text": "<b>(→M1)</b>"
     },
     {
         "code": "01124",
-        "flavor": "You still feel uneasy about going back.",
-        "name": "Your House",
-        "text": "<b>Forced</b> - When the Ghoul Priest spawns: Spawn it here instead of at its normal location.\n[action]: Draw 1 card and gain 1 resource. (Limit once per turn.)",
+        "flavor": "Még mindig vonakodsz visszatérni.",
+        "name": "A házad",
+        "text": "<b>Kötelező</b> - Amikor a Ghoul pap megjelenik: Helyezd ide, ahelyett, hogy a szokásos helyszínére tennéd.\n[action]: Húzz 1 kártyát és kapsz 1 erőforrást. (Fordulónként legfeljebb egyszer.)",
         "traits": "Arkham.",
-        "back_flavor": "Despite what happened, you just couldn't bring yourself to destroy your home."
+        "back_flavor": "A történtek ellenére egészen egyszerűen képtelen voltál rávenni magad otthonod lerombolására."
     },
     {
         "code": "01125",
-        "flavor": "There is something unsettling about the water of the Miskatonic River tonight. It ripples and bubbles as though something is moving beneath the surface.",
-        "name": "Rivertown",
-        "traits": "Arkham. Central.",
-        "back_flavor": "The banks of the Miskatonic River are lined with docks, warehouses and small shops in a district aptly named Rivertown."
+        "flavor": "Ma este van valami nyugtalanító a Miskatonic-folyó vizében. Úgy bugyog és fodrozódik, mintha a felszíne alatt mocorogna valami.",
+        "name": "Folyóváros",
+        "traits": "Arkham. Központ.",
+        "back_flavor": "A Miskatonic-folyó partjai mentén dokkok, raktárépületek meg apró üzletek sorakoznak e találó módon csak Folyóváros névre hallgató kerületben."
     },
     {
         "code": "01126",
-        "flavor": "The Georgian manor housing the Historical Society is well known for its private library, where local records, maps, and artifacts from Arkham's past hint at secrets better left alone.",
-        "name": "Southside",
-        "subname": "Historical Society",
-        "text": "[action]: Draw 3 cards. (Limit once per game.)",
+        "flavor": "A Történeti Társaságnak otthont adó György-korabeli kúria jól ismert magánkönyvtáráról, ahol helyi feljegyzések, térképek és Arkham múltjából származó műalkotások olyasféle titkokra utalnak, melyeket jobb nem bolygatni.",
+        "name": "Déli városrész",
+        "subname": "Történeti Társaság",
+        "text": "[action]: Húzz 3 kártyát. (Játékonként legfeljeb egyszer.)",
         "traits": "Arkham.",
-        "back_flavor": "Middle-class houses with gambrel roofs crowd together between the streets of Southside. The neighborhood is known for its cultural and social landmarks, such as South Church, Ma's Boarding House, and the Historical Society."
+        "back_flavor": "A Déli városrész utcáin középosztálybeli, nyeregtetős házak sorakoznak. A környék olyan kultúrális és társadalmi nevezetességekről ismeretes, mint a Déli Templom, Ma Panziója és a Történeti Társaság."
     },
     {
         "code": "01127",
-        "flavor": "Ma's is famous for its cheap rooms and Mystery Meat Mondays. A motley variety of characters can be found coming and going at all times of day.",
-        "name": "Southside",
-        "subname": "Ma's Boarding House",
-        "text": "[action]: Search your deck for an [[Ally]] asset and add it to your hand. Shuffle your deck. (Limit once per game.)",
+        "flavor": "Ma Panziója olcsó szobáiról és \"huncut húsos hétfőiről\" híres. A legkülönfélébb alakok jönnek-mennek itt a nap minden szakaszában.",
+        "name": "Déli városrész",
+        "subname": "Ma Panziója",
+        "text": "[action]: Keress ki a húzópaklidból egy [[Társ]] eszközt és vedd a kezedbe. Keverd meg a húzópaklidat. (Játékonként legfeljeb egyszer.)",
         "traits": "Arkham.",
-        "back_flavor": "Middle-class houses with gambrel roofs crowd together between the streets of Southside. The neighborhood is known for its cultural and social landmarks, such as South Church, Ma's Boarding House, and the Historical Society."
+        "back_flavor": "A Déli városrész utcáin középosztálybeli, nyeregtetős házak sorakoznak. A környék olyan kultúrális és társadalmi nevezetességekről ismeretes, mint a Déli Templom, Ma Panziója és a Történeti Társaság."
     },
     {
         "code": "01128",
-        "flavor": "An extended stay at St. Mary's can do wonders for the body, but its effect on one's psyche is unclear.",
-        "name": "St. Mary's Hospital",
-        "text": "[action]: Heal 3 damage. (Limit once per game.)",
+        "flavor": "Egy hosszabb tartozkodás a Miasszonyunk Kórházban csodákat képes tenni a testtel, elmére gyakorolt hatása azonban tisztázatlan.",
+        "name": "Miasszonyunk Kórház",
+        "text": "[action]: Gyógyíts meg 3 sérülést. (Játékonként legfeljeb egyszer.)",
         "traits": "Arkham.",
-        "back_flavor": "Arkham's only hospital, St. Mary's has a twenty-four-hour receiving room and is busy at all hours of the night. Doctor Mortimore and Nurse Sharon have been particularly stressed lately, thanks in part to recent events."
+        "back_flavor": "Arkham egyetlen kórházának huszonnégy órás rendelőle az éjszaka minden órájában forgalmas. Mortimore doktor úr és Sharon nővér mostanság különösen feszültek, részben a közelmúlt eseményeinek köszönhetően."
     },
     {
         "code": "01129",
-        "flavor": "The campus is quiet and lonely. Several of the buildings have been left unlocked for students and faculty working late into the night.",
-        "name": "Miskatonic University",
-        "text": "[action]: Search the top 6 cards of your deck for a [[Tome]] or [[Spell]] card and add it to your hand. Shuffle your deck.",
+        "flavor": "A kampusz csendes és elhagyatott. Néhány épület nyitva áll a késő estig dolgozó diákok és tanárok számára.",
+        "name": "Miskatonic Egyetem",
+        "text": "[action]: Keress ki a húzópaklid felső 6 kártyája közül egy [[Kötet]] vagy egy [[Varázslat]] kártyát és vedd a kezedbe. Keverd meg a húzópaklidat.",
         "traits": "Arkham.",
-        "back_flavor": "Miskatonic University is one of the most prestigious colleges in the Northeast. The university library is famous for its collection of occult books maintained by the esteemed Dr. Henry Armitage."
+        "back_flavor": "A Miskatonic Egyetem az északkeleti partvidék felsőoktatási intézményeinek egyik legtekintélyesebbike. Könyvtára híres okkult gyűjteményéről, melynek a köztiszteletben álló Dr. Henry Armitage viseli gondját."
     },
     {
         "code": "01130",
-        "flavor": "We'll call this a \"loan.\"",
-        "name": "Downtown",
-        "subname": "First Bank of Arkham",
-        "text": "[action]: Gain 3 resources. (Limit once per game.)",
+        "flavor": "Nevezzük csak \"kölcsönnek\".",
+        "name": "Belváros",
+        "subname": "Arkham Első Bankja",
+        "text": "[action]: Kapsz 3 erőforrást. (Játékonként legfeljeb egyszer.)",
         "traits": "Arkham.",
-        "back_flavor": "The Downtown area of Arkham is filled with government buildings, including City Hall. The First Bank of Arkham, Independence Square, and Arkham Asylum can also be found in this area. It is the busiest district in the city."
+        "back_flavor": "Arkham belvárosa telis-tele van középületekkel. A Városháza, Arkham Első Bankja, a Függetlenség tér és az Arkhami Elmegyógyintézet is itt található. Ez a város legforgalmasabb része."
     },
     {
         "code": "01131",
-        "flavor": "A refuge for the mind, or a prison for the soul?",
-        "name": "Downtown",
-        "subname": "Arkham Asylum",
-        "text": "[action]: Heal 3 horror. (Limit once per game.)",
+        "flavor": "Az elme menedéke, vagy a lélek tömlöce?",
+        "name": "Belváros",
+        "subname": "Arkhami Elmegyógyintézet",
+        "text": "[action]: Gyógyíts meg 3 iszonyatot. (Játékonként legfeljeb egyszer.)",
         "traits": "Arkham.",
-        "back_flavor": "The Downtown area of Arkham is filled with government buildings, including City Hall. The First Bank of Arkham, Independence Square, and Arkham Asylum can also be found in this area. It is the busiest district in the city."
+        "back_flavor": "Arkham belvárosa telis-tele van középületekkel. A Városháza, Arkham Első Bankja, a Függetlenség tér és az Arkhami Elmegyógyintézet is itt található. Ez a város legforgalmasabb része."
     },
     {
         "code": "01132",
-        "name": "Easttown",
-        "text": "While you are in Easttown, reduce the cost of each [[Ally]] asset you play by 2.",
+        "name": "Keleti városrész",
+        "text": "Amíg a Keleti városrészben vagy, csökkentsd le 2-vel az összes [[Társ]] eszközöd kijátszási költségét.",
         "traits": "Arkham.",
-        "back_flavor": "The Easttown neighborhood, situated on the northern banks of the Miskatonic River, contains lower-class housing, the Arkham Police Station, and popular eateries like Velma's Diner."
+        "back_flavor": "A Miskatonic-folyó északi partján fekvő Keleti városrész környékén alsóbb osztálybeli lakóépületek, az Arkhami Rendőrörs és a Velma Étkezdéjéhez hasonló közkedvelt vendéglátóhelyek találhatóak."
     },
     {
         "code": "01133",
-        "name": "Graveyard",
-        "text": "<b>Forced</b> - After you enter the Graveyard: Test [willpower] (3). If you fail, you must either take 2 horror or move to Rivertown.",
+        "name": "Temetőkert",
+        "text": "<b>Kötelező</b> - Miután belépsz a Temetőkertbe: Tégy [willpower] (3) próbát. Ha elbukod, vagy kapsz 2 iszonyatot, vagy át kell mozognod Folyóvárosba.",
         "traits": "Arkham.",
-        "back_flavor": "The graveyard lies at the foot of French Hill. Some of the headstones date back to the seventeenth century, when the earliest colonists came to Arkham. Considering what happened in your house, you're not completely keen on heading there."
+        "back_flavor": "A temetőkert a Francia-domb lábánál terül el. A sírkövek némelyike a tizenhetedik századból maradt fenn, amikor a legelső telepesek Arkhamba érkeztek. Figyelembe véve, mi történt a házadban, nem kifejezetten fűlik hozzá a fogad, hogy belépj."
     },
     {
         "code": "01134",
-        "flavor": "In Northside, nothing gets people talking faster than a piece of dough.",
-        "name": "Northside",
-        "text": "[action] Spend 5 resources: Gain 2 clues from the token pool. (Group limit once per game.)",
+        "flavor": "Az Északi városrészben semmi sem képes úgy megoldani az emberek nyelvét, mint egy kis dohány.",
+        "name": "Északi városrész",
+        "text": "[action] Költs el 5 erőforrást: Kapsz 2 nyomot a készletből. (Játékonként, csoportként legfeljebb egyszer.)",
         "traits": "Arkham.",
-        "back_flavor": "Northside is a commercial district that contains many offices and factories, as well as the train station."
+        "back_flavor": "Az Északi városrész egy kereskedelmi negyed, ahol számos iroda, gyár, valamint a vasútállomás is megtalálható."
     },
     {
         "code": "01135",
-        "flavor": "A shadowy figure follows you in the rain. When you look back, your head pounds in agony and your vision blurs.",
-        "name": "Hunting Shadow",
-        "text": "Peril.\n<b>Revelation</b> - You must choose either (choose one): Spend 1 clue or take 2 damage.",
-        "traits": "Curse."
+        "flavor": "Az esőben egy árnyalak követ téged. Amikor rátekintesz, fejed fájdalomtól lüktet, látásod pedig elhomályosul.",
+        "name": "Vadászó árny",
+        "text": "Veszedelem.\n<b>Felfedés</b> - Döntened kell (válassz egyet): Vagy elköltesz 1 nyomot vagy kapsz 2 sérülést.",
+        "traits": "Átok."
     },
     {
         "code": "01136",
-        "name": "False Lead",
-        "text": "<b>Revelation</b> - If you have no clues, False Lead gains surge. If you have 1 or more clues, test [intellect] (4). For each point you fail by, place 1 of your clues on your location."
+        "name": "Félrevezető nyom",
+        "text": "<b>Felfedés</b> - Ha nincs nyomod, a Félrevezető nyom túltöltődik. Ha van legalább 1 nyomod, tégy [intellect] (4) próbát. Kudarc esetén helyezd 1 nyomodat a helyszínedre minden hiányzó pont után."
     },
     {
         "code": "01137",
-        "flavor": "Drew is a longtime patient at Arkham Asylum. Rumor has it he was locked up for committing cannibalism several years ago. He is considered extremely dangerous.",
-        "name": "\"Wolf-Man\" Drew",
-        "subname": "The Cannibal",
-        "text": "<b>Spawn</b> - Downtown.\n<b>Forced</b> - When \"Wolf-Man\" Drew attacks: Heal 1 damage from him.",
-        "traits": "Humanoid. Cultist."
+        "flavor": "Drew már régi páciens az Arkhami Elmegyógyintézetben. Azt beszélik, évekkel ezelőtt kannibalizmus miatt zárták be. Rendkívül veszélyesnek tartják.",
+        "name": "\"Farkasember\" Drew",
+        "subname": "Az emberevő",
+        "text": "<b>Megjelenés</b> - Belváros.\n<b>Kötelező</b> - Amikor \"Farkasember\" Drew támad: Gyógyít magán 1 sérülést.",
+        "traits": "Emberszerű. Kultista."
     },
     {
         "code": "01138",
-        "flavor": "The undertaker in the local graveyard has been digging strange tunnels underneath the mausoleum... but for what purpose?",
+        "flavor": "A hely temetőkert sírásója furcsa alagutakat ásott a ravatalozó alá... de vajon me célból?",
         "name": "Herman Collins",
-        "subname": "The Undertaker",
-        "text": "<b>Spawn</b> - Graveyard.\n[action] Choose and discard 4 cards from your hand: <b>Parley.</b> Add Herman Collins to the victory display.",
-        "traits": "Humanoid. Cultist."
+        "subname": "A sírásó",
+        "text": "<b>Megjelenés</b> - Temetőkert.\n[action] Válassz ki és dobj el 4 kártyát a kezedből: <b>Egyezkedés.</b> Tedd Herman Collinst a győzelmi pakliba.",
+        "traits": "Emberszerű. Kultista."
     },
     {
         "code": "01139",
-        "flavor": "A professor of the occult has been seen reading strange books that relate to cannibalism. Maybe he knows something we don't?",
+        "flavor": "Az okkult tanok e szakértőjét többen is látták már, amint különös könyveket búj a kannibalizmus témakörében. Talán tud valamit, amit mi nem?",
         "name": "Peter Warren",
-        "subname": "The Occult Professor",
-        "text": "<b>Spawn</b> - Miskatonic University.\n[action] Spend 2 clues: <b>Parley.</b> Add Peter Warren to the victory display.",
-        "traits": "Humanoid. Cultist."
+        "subname": "Az okkultista professzor",
+        "text": "<b>Megjelenés</b> - Miskatonic Egyetem.\n[action] Költs el 2 nyomot: <b>Egyezkedés.</b> Tedd Peter Warrent a győzelmi pakliba.",
+        "traits": "Emberszerű. Kultista. Miskatonic."
     },
     {
         "code": "01140",
-        "flavor": "Oliver Thomas, the proprietor of the Curiositie Shoppe, has informed you that a new client has taken a keen interest in a mysterious mask...",
+        "flavor": "Oliver Thomas, a Furcsaságok Boltjának tulajdonosa tájékoztatott téged, hogy egyik új ügyfele élénk érdeklődést tanúsít egy titokzatos maszk iránt...",
         "name": "Victoria Devereux",
-        "subname": "The Collector",
-        "text": "<b>Spawn</b> - Northside.\n[action] Spend 5 resources: <b>Parley.</b> Add Victoria Devereux to the victory display.",
-        "traits": "Humanoid. Cultist."
+        "subname": "A gyűjtő",
+        "text": "<b>Megjelenés</b> - Északi városrész.\n[action] Költs el 5 erőforrást: <b>Egyezkedés.</b> Tedd Victoria Devereux-t a győzelmi pakliba.",
+        "traits": "Emberszerű. Kultista."
     },
     {
         "code": "01141",
-        "flavor": "Bodies from the morgue have mysteriously gone missing. Perhaps the mortician in St. Mary's had something to do with these disappearances.",
+        "flavor": "A hullaházból titokzatos módon testek tűntek el. A Miasszonyunk Kórház boncmesterének talán köze lehet az eltűnésekhez.",
         "name": "Ruth Turner",
-        "subname": "The Mortician",
-        "text": "<b>Spawn</b> - St. Mary's Hospital.\n<b>Forced</b> - After Ruth Turner is evaded: Add her to the victory display.",
-        "traits": "Humanoid. Cultist."
+        "subname": "A kórboncnok", 
+        "text": "<b>Megjelenés</b> - Miasszonyunk Kórház.\n<b>Kötelező</b> - MiutánRuth Turnert elkerülték: Tedd Ruth Turnert a győzelmi pakliba.",
+        "traits": "Emberszerű. Kultista."
     },
     {
         "code": "01142",
