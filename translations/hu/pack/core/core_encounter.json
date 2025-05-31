@@ -298,298 +298,298 @@
     },
     {
         "code": "01142",
-        "name": "The Devourer Below",
-        "text": "Easy / Standard\n[skull]: -X. X is the number of [[Monster]] enemies in play.\n[cultist]: -2. Place 1 doom on the nearest enemy.\n[tablet]: -3. If there is a [[Monster]] enemy at your location, take 1 damage.\n[elder_thing]: -5. If there is an [[Ancient One]] enemy in play, reveal another token.",
-        "back_text": "Hard / Expert\n[skull]: -3. If you fail, after this skill test, search the encounter deck and discard pile for a [[Monster]] enemy, and draw it. Shuffle the encounter deck.\n[cultist]: -4. Place 2 doom on the nearest enemy.\n[tablet]: -5. If there is a [[Monster]] enemy at your location, take 1 damage and 1 horror.\n[elder_thing]: -7. If there is an [[Ancient One]] enemy in play, reveal another token."
+        "name": "A pusztító a mélyben",
+        "text": "Könnyű / Átlagos\n[skull]: -X. X a játékban lévő [[Szörny]] ellenségek száma.\n[cultist]: -2. Helyezz 1 vegzetjelzőt a legközelebbi ellenségre.\n[tablet]: -3. Ha van [[Szörny]] ellenség a helyszíneden, kapsz 1 sérülést.\n[elder_thing]: -5. Ha van [[Mérhetetlen Vén]] ellenség a játékban, húzz egy másik jelzőt.",
+        "back_text": "Nehéz / Szakértő\n[skull]: -3. Ha elbukod, a képességpróba után keress ki és húzz fel a találkozás húzó- vagy dobópaklijából egy [[Szörny]] ellenséget. Ezután keverd meg a találkozás húzópakliját.\n[cultist]: -4. Helyezz 2 végzetjelzőt a legközelebbi ellenségre.\n[tablet]: -5. Ha van [[Szörny]] ellenség a helyszíneden, kapsz 1 sérülést és 1 iszonyatot.\n[elder_thing]: -7. Ha van [[Mérhetetlen Vén]] ellenség a játékban, húzz egy másik jelzőt."
     },
     {
         "code": "01143",
-        "flavor": "After interrogating members of the conspiracy within Arkham, you have learned that they are performing a rite of vengeance in response to the destruction of one of their master's lairs. You have entered the woods outside Arkham to try and stop them. The woods seem unnaturally cold, and filled with a deathly silence.",
-        "name": "The Arkham Woods",
-        "back_name": "Death to the Intruders",
-        "back_flavor": "Throughout the woods, a shrieking cry echoes. From somewhere deeper in the forest, a score of hideous voices answer the call, inhuman as the baying of hounds and yet articulate, repeating a singular name:\n\"Umôrdhoth... Umôrdhoth... Umôrdhoth...\"",
-        "back_text": "Shuffle the encounter discard pile into the encounter deck and discard cards from the top until a [[Monster]] enemy is discarded. Spawn that enemy in the Main Path. Then, place 1 doom on that enemy."
+        "flavor": "Az arkhami összeesküvés tagjainak kivallatásából megtudtátok, hogy egy szertartást készülnek végrehajtani bosszúból mesterük egyik búvóhelyének elpusztításáért. Behatoltok hát az Arkham melletti erdőségbe, hogy megkíséréljétek megfékezni őket. A rengeteg természetellenesen hűvösnek hat, és mindenütt síri csend honol.",
+        "name": "Arkham erdeje",
+        "back_name": "Halál a betolakodókra",
+        "back_flavor": "Harsány visítás zeng végig az erdőn. Valahonnan a rengeteg mélyéről förtelmes hangok kórusa válaszol a hívásra; nem embertől való, inkább kutyák csaholásához hasonlatos, mégis egyetlen, jól érthető nevet szajkóznak: \n\"Umôrdhoth... Umôrdhoth... Umôrdhoth...\"",
+        "back_text": "Keverd össze a találkozás húzópakliját a dobópaklijával. Egyesével dobj el a tetejéről kártyákat, amíg el nem dobsz egy [[Szörny]] ellenséget. Az eldobott ellenség megjelenik a Fő ösvényen. Azután helyezz az ellenségre 1 végzetjelzőt."
     },
     {
         "code": "01144",
-        "flavor": "\"Umôrdhoth... Umôrdhoth... Umôrdhoth...\"\nThe chanting builds in intensity, echoing into the cold air of the night. The sparse clouds in the sky coalesce above the Arkham woods, blotting out the faint light of the stars.",
-        "name": "The Ritual Begins",
-        "text": "Each enemy gets +1 fight and +1 evade.",
-        "back_name": "The Will of Umôrdhoth",
-        "back_flavor": "A dark presence approaches, and you are assaulted by invisible pressures that bring you to your knees. A terrible force threatens to invade your mind and soul. Your throat clenches and your eyes water as the sensation burns through you.",
-        "back_text": "In player order, each investigator must test [willpower] (6). Each investigator who fails must search his or her collection for a random basic [[Madness]] weakness and add it to his or her hand."
+        "flavor": "\"Umôrdhoth... Umôrdhoth... Umôrdhoth...\"\nA kántálás egyre áthatóbban zeng az éjszaka hűs levegőjében. A gyér felhők egybegyűlnek Arkham erdeje felett, elleplezvén a csillagok halovány fényét.",
+        "name": "A rituálé kezdetét veszi",
+        "text": "Minden ellenség +1 harc- és +1 elkerülésértéket kap.",
+        "back_name": "Umôrdhoth akarata",
+        "back_flavor": "Sötét jelenlét közeleg, és láthatatlan erők kényszerítenek térdre titeket. Egy szörnyűséges hatalom azzal fenyeget, hogy tudatotokba és lelketekbe hatol. Torkotok elszorul, szemetek pedig könnybe lábad, amint az érzés végigperzsel rajtatok.",
+        "back_text": "Játékossorrendben minden nyomozó tegyen [willpower] (6) próbát. Mindenki, aki elbukta, keressen ki a gyűjteményből egy véletlenszerű [[Őrület]] alapgyengeséget és vegye a kezébe."
     },
     {
         "code": "01145",
-        "flavor": "The world begins to shift and change as the ritual nears its conclusion. The air grows chilly, and the entire forest is covered in a layer of rime. The trees bend unnaturally, and their shadows lengthen into weird shape.",
-        "name": "Vengeance Awaits",
-        "text": "<b>Forced</b> - When this agenda advances:\n- If the investigators are at Act 1, put the set-aside Ritual Site into play and spawn the set-aside Umôrdhoth there.\n- If the investigators are at Act 2 or 3, discard all enemies at the Ritual Site and spawn the set-aside Umôrdhoth there.",
-        "back_name": "The Devourer Below",
-        "back_text": "<b>Revelation</b> - Replace the current Act and Agenda with The Devourer Below. This card is both the current Act and the current Agenda.\n<b>Objective</b> - If Umôrdhoth is defeated, <b>(→R2)</b>"
+        "flavor": "Midőn a rituálé a végéhez közeleg, a világ változásnak indul, és átalakul. A levegő lehűl, és az egész erdőt zúzmara borítja. A fák természetellenesen meggörnyednek, árnyékaik pedig hátborzongató alakokká nyúlnak.",
+        "name": "A bosszú már vár",
+        "text": "<b>Kötelező</b> - Amikor ez a cselekmény továbbhalad:\n- Ha a nyomozók az 1. felvonásnál járnak, helyezzétek a félretett Szertartási helyet a játékba, és megjelenik rajta a félretett Umôrdhoth.\n- Ha a nyomozók a 2. vagy 3. felvonásnál járnak, dobjátok el a Szertartási helyen lévő összes ellenséget, és megjelenik rajta a félretett Umôrdhoth.",
+        "back_name": "A pusztító a mélyben",
+        "back_text": "<b>Felfedés</b> -Cseréljétek ki az aktuális felvonást és cselekményt A pusztító a mélyben kártyával. Ez a kártya egyszerre jelképezi az aktuális felvonást és az aktuális cselekményt.\n<b>Küldetés</b> - Ha Umôrdhoth legyőzetik, <b>(→M2)</b>"
     },
     {
         "code": "01146",
-        "flavor": "The evidence you've gathered has led you to the woods south of Arkham, where you believe a ritual to summon a being called \"Umôrdhoth\" is about to take place. Steeling your resolve, you set forth deeper into the woods, hoping to find the site of this ritual.",
-        "name": "Investigating the Trail",
-        "back_name": "Unveiling the Plan",
-        "back_flavor": "Scattered throughout the forest you've seen glyphs and arcane sigils in various places - etched into the bark of trees, carved upon the faces of stones, and dripped in blood upon the ground. Though you cannot decipher these glyphs, you notice that most of them tend to face south. Following these signs leads you by twists and turns towards a cave in the darkest and coldest part of the forest.\nAs you advance, shadowy figures emerge from the trees, blocking the only path to the cave.",
-        "back_text": "Put the set-aside Ritual Site into play if it is not already in play.\nSearch the collection for each enemy recorded in your Campaign Log under \"Cultists Who Got Away,\" and spawn those enemies at the Main Path."
+        "flavor": "Az általatok összegyűjtött bizonyítékok az Arkhamtól délre fekvő erdőségbe vezettek titeket, ahol vélekedésetek szerint egy Umôrdhoth nevezetű lény megidézésére készülnek. Remélvén, hogy sikerül rálelnetek e szertartás helyszínére, megacélozzátok elszántságotokat, és mélyebbre hatoltok a rengetegben.",
+        "name": "Az ösvény felderítése",
+        "back_name": "A terv leleplezése",
+        "back_flavor": "Erdőszerte mindenütt rúnákra meg bűvös pecsétekre lesztek figyelmesek - fák kérgébe faragva, kövek felszínébe vésve, és vérrel a földre rajzolva. Noha megfejteni nem tudjátok őket, felfigyeltek rá, hogy többségük déli irányba néz. E nyomokat követvén, kanyarogós utatok egy barlang felé vezet, az erdőség legsötétebb és leghűvösebb tájékán.\nAhogy haladtok, a fák küzöl sötét alakok bukkannak elő, elzárva a barlanghoz vezető egyetlen ösvényt.",
+        "back_text": "Helyezd játékba a félretett Szertartási helyet, ha még nincs a játékban.\nA kampánynaplóban az \"Elmenekült kultisták\" alá feljegyzett minden egyes ellenséget keresd ki a gyűjteményből, ők megjelennek a Fő ösvényen."
     },
     {
         "code": "01147",
-        "flavor": "The remaining cultists have followed you into the woods to try to stop you, and now they block the path to your objective. They stand ominously beneath the overhanging trees, silent sentinels in the night. You must defeat them or sneak past if you are to gain access to the site of their ritual.",
-        "name": "Into the Darkness",
-        "text": "<b>Objective</b> - If an investigator enters the Ritual Site, advance.",
-        "back_name": "Last Rites",
-        "back_flavor": "When you enter the cave, the air grows cold, and your nostrils are assaulted by the pungent smell of blood and rot.",
-        "back_text": "Shuffle the encounter discard pile into the encounter deck. Discard cards from the top of the encounter deck until 1 enemy is discarded (2 enemies instead if there are 3 or more players in the game). Spawn each discarded enemy at the Ritual Site."
+        "flavor": "A megmaradt kultisták követtek titeket az erdőbe, hogy megpróbáljanak megállítani, most pedig utatokat állják. Vészjóslón várakoznak a terebélyes fák alatt, akár néma őrszemek az éjszakában. Ahhoz, hogy eljuthassatok szertartásuk helyszínére, le kell győznötök őket, vagy el kell osonnotok mellettük.",
+        "name": "A sötétségbe",
+        "text": "<b>Küldetés</b> - Ha egy nyomozó belép a Szertartási helyre, továbbhalad a történet.",
+        "back_name": "Az utolsó rítus",
+        "back_flavor": "Midőn a barlangba léptek, a levegő lehűl, orrotokat pedig vér és rothadás átható bűze csapja meg.",
+        "back_text": "Keverd össze a találkozás húzópakliját a dobópaklijával. Egyesével dobj el a tetejéről minden kártyát, amíg el nem dobsz egy ellenséget (kettőt, ha legalább 3 játékos játszik). Minden eldobott ellenség megjelenik a Szertartási helyen."
     },
     {
         "code": "01148",
-        "flavor": "The site of the cult's ritual is inside a large cavern in a dark corner of the woods. In the center of the chamber is a candlelit circle marked by rocks and arcane runes.",
-        "name": "Disrupting the Ritual",
-        "text": "[action] Spend 1 clue: Test [willpower] (3) or [agility] (3). If you succeed, place 1 clue on this Act.\n<b>Objective</b> - If there are 2 clues per investigator on this Act, advance.",
-        "back_name": "The Ritual Is Broken",
-        "back_flavor": "You brave the unnatural chill and weave through arcane symbols, crossing the threshold of the circle. You smother the markings on the ground, covering them with dirt, breaking apart the carefully constructed pattern of smooth rocks. A shrill noise pierces your ears as the air grows suddenly warmer, and the world distorts around you, settling into normality.",
-        "back_text": "<b>(→R1)</b>"
+        "flavor": "A kultusz szertartásának helyszíne az erdő egyik sötét szegletében, egy tágas barlang mélyén rejlik. A kamra közepén egy gyertyákkal megvilágított kör éktelenkedik, kövekkel meg bűvös rúnákkal jelölve.",
+        "name": "A rituálé megzavarása",
+        "text": "[action] Költs el 1 nyomot: Tégy [willpower] (3) vagy [agility] (3)  próbát. Ha sikeres, helyezz 1 nyomot erre a felvonásra.\n<b>Küldetés</b> - Ha van nyomozónként 2 nyom ezen a felvonáson, továbbhalad a történet.",
+        "back_name": "A rituálé megtöretik",
+        "back_flavor": "Dacolva a természetellenes hideggel, és bűvös szimbólumokat kerülgetve átlépitek a kör szélét. Eltapossátok a talajra rótt jeleket, és földet söpörtök rájuk, megtörvén a lapos kövekből gondosan megalkotott mintát. Fültépő zaj támad, amint a levegő hirtelen felmelegszik, a világ pedig elváltozik körülöttetek, hogy aztán visszarendeződjék megszokot állapotába.",
+        "back_text": "<b>(→M1)</b>"
     },
     {
         "code": "01149",
-        "name": "Main Path",
-        "text": "The Main Path is connected to each other [[Woods]] location.\n[action]: <b>Resign.</b> \"There's nothing we can do to stop them!\" You flee from the woods, leaving Arkham to its grisly fate.",
-        "traits": "Woods.",
-        "back_flavor": "Hangman's Brook separates Uptown from the woods south of Arkham. Passing over the small bridge, you follow the main path deeper into the trees."
+        "name": "Fő ösvény",
+        "text": "A Fő ösvény kapcsolatban áll minden más [[Erdő]] helyszínnel.\n[action]: <b>Visszavonulás.</b> \"Semmit sem tehetünk, hogy megállítsuk őket!\" Elmenekülsz az erdőből, szörnyűséges sorsára hagyván Arkham városát.",
+        "traits": "Erdő.",
+        "back_flavor": "Arkham kertvárosát a Bakó-patak választja el az attól délre húzódó erdőségtől. A hidacskán átkelvén, az ösvény egyre mélyebbre visz a rengetegbe."
     },
     {
         "code": "01150",
-        "flavor": "This clearing has been the site of dark rites since colonists first came to the area over two centuries ago.",
-        "name": "Arkham Woods",
-        "subname": "Unhallowed Ground",
-        "text": "<b>Forced</b> - After you enter this location: Test [willpower] (4). If you fail, take 1 horror and 1 damage.",
-        "traits": "Woods.",
-        "back_flavor": "Growing up, you were always warned to stay out of the woods at night. Now you know why."
+        "flavor": "E tisztás sötét rítusok helyszínéül szolgált, mióta csak az első telepesek két évszázadnál is korábban e területre érkeztek.",
+        "name": "Arkham erdeje",
+        "subname": "Szentségtelen föld",
+        "text": "<b>Kötelező</b> -Miután belépsz ide: Tégy [willpower] (4) próbát. Ha elbukod, kapsz 1 sérülést és 1 iszonyatot.",
+        "traits": "Erdő.",
+        "back_flavor": "Kölyökkorodban mindig figyelmeztettek, hogy éjszaka ne menj az erdő közelébe. Most már tudod, miért."
     },
     {
         "code": "01151",
-        "flavor": "This path seems to twist and turn upon itself, almost as if it were alive.",
-        "name": "Arkham Woods",
-        "subname": "Twisting Paths",
-        "text": "<b>Forced</b> - When you move out of this location: Test [intellect] (3). If you fail, cancel the effects of the move.",
-        "traits": "Woods.",
-        "back_flavor": "Growing up, you were always warned to stay out of the woods at night. Now you know why."
+        "flavor": "E kanyargós ösvény úgy tekereg fel s alá, mintha csak élne.",
+        "name": "Arkham erdeje",
+        "subname": "Kanyargós ösvények",
+        "text": "<b>Kötelező</b> - Amikor elmozogsz erről a helyszínről: Tégy [intellect] (3) próbát. Ha elbukod, hagyd figyelmen kívül a mozgást.",
+        "traits": "Erdő.",
+        "back_flavor": "Kölyökkorodban mindig figyelmeztettek, hogy éjszaka ne menj az erdő közelébe. Most már tudod, miért."
     },
     {
         "code": "01152",
-        "flavor": "A house at the edge of the trail, covered in vines. Inside, the walls and floors are bloodstained and littered with dirt, mud, and discarded bones.",
-        "name": "Arkham Woods",
-        "subname": "Old House",
-        "text": "This location is investigated using [willpower] instead of the skill indicated by the investigation attempt.",
-        "traits": "Woods.",
-        "back_flavor": "Growing up, you were always warned to stay out of the woods at night. Now you know why."
+        "flavor": "Az ösvény szélén egy indákkal benőtt ház várakozik, Odabent a falak és a padló vértől mocskosak, minden csupa kosz meg sár, és csontok hevernek szerteszét.",
+        "name": "Arkham erdeje",
+        "subname": "Ódon ház",
+        "text": "Ezen a helyszínen a meghatározott képesség helyett [willpower] szükséges a nyomozáshoz.",
+        "traits": "Erdő.",
+        "back_flavor": "Kölyökkorodban mindig figyelmeztettek, hogy éjszaka ne menj az erdő közelébe. Most már tudod, miért."
     },
     {
         "code": "01153",
-        "flavor": "Atop a nearby plateau, you can see signs of cultist activity. You will have to climb the cliff in order to reach the top.",
-        "name": "Arkham Woods",
-        "subname": "Cliffside",
-        "text": "This location is investigated using [agility] instead of the skill indicated by the investigation attempt.",
-        "traits": "Woods.",
-        "back_flavor": "Growing up, you were always warned to stay out of the woods at night. Now you know why."
+        "flavor": "Egy közeli fennsíkon kultisták ténykedésének nyomai láthatóak. A sziklatető eléréséhez meg kell másznod a szirtet.",
+        "name": "Arkham erdeje",
+        "subname": "Szirtfal",
+        "text": "Ezen a helyszínen a meghatározott képesség helyett [agility] szükséges a nyomozáshoz.",
+        "traits": "Erdő.",
+        "back_flavor": "Kölyökkorodban mindig figyelmeztettek, hogy éjszaka ne menj az erdő közelébe. Most már tudod, miért."
     },
     {
         "code": "01154",
-        "flavor": "An old horse trail in colonial days, this overgrown path hasn't been used in over a decade.",
-        "name": "Arkham Woods",
-        "subname": "Tangled Thicket",
-        "text": "This location is investigated using [combat] instead of the skill indicated by the investigation attempt.",
-        "traits": "Woods.",
-        "back_flavor": "Growing up, you were always warned to stay out of the woods at night. Now you know why."
+        "flavor": "E régi, túlburjánzott ösvény a gyarmati időkben lovas útként szolgált, de immáron bő egy évtizede nincs használatban.",
+        "name": "Arkham erdeje",
+        "subname": "Kusza bozót",
+        "text": "Ezen a helyszínen a meghatározott képesség helyett [combat] szükséges a nyomozáshoz.",
+        "traits": "Erdő.",
+        "back_flavor": "Kölyökkorodban mindig figyelmeztettek, hogy éjszaka ne menj az erdő közelébe. Most már tudod, miért."
     },
     {
         "code": "01155",
-        "flavor": "This would be a nice picnic spot, if it weren't for all the monsters.",
-        "name": "Arkham Woods",
-        "subname": "Quiet Glade",
-        "text": "[action]: Heal 1 damage or heal 1 horror. (Limit once per turn.)",
-        "traits": "Woods.",
-        "back_flavor": "Growing up, you were always warned to stay out of the woods at night. Now you know why."
+        "flavor": "Remek kis piknikező hely lenne ez, leszámítva a szörnyeket.",
+        "name": "Arkham erdeje",
+        "subname": "Csendes tisztás",
+        "text": "[action]: Gyógyíts meg 1 sérülést vagy 1 iszonyatot. (Fordulónként legfeljebb egyszer.)",
+        "traits": "Erdő.",
+        "back_flavor": "Kölyökkorodban mindig figyelmeztettek, hogy éjszaka ne menj az erdő közelébe. Most már tudod, miért."
     },
     {
         "code": "01156",
-        "flavor": "The sigils on the wall begin to flicker in and out of focus, and the air grows heavy with the smell of death.",
-        "name": "Ritual Site",
-        "text": "<b>Forced</b> - At the end of the round, if there are fewer than 2 clues per investigator on Ritual Site: Add clues to it until it has 2 clues per investigator on it.",
-        "traits": "Cave.",
-        "back_flavor": "The large central chamber of a cold, dark cavern, adorned with arcane markings and dimly lit by candlelight."
+        "flavor": "A falra mázolt pecsétek fel-fel izzanak szemed előtt, a levegő pedig a halál bűzétől válik terhessé.",
+        "name": "Szertartási hely",
+        "text": "<b>Kötelező</b> - A kör végén, ha kevesebb mint nyomozónként 2 nyom van a Szertartási helyen: Helyezz rá nyomokat, amíg nem lesz rajta ismét nyomozónként 2 nyom.",
+        "traits": "Barlang.",
+        "back_flavor": "Egy hideg, sötét barlangüreg tágas központi kamrája, melynek falait bűvös jelek díszítik, és halovány gyertyafény világítja meg."
     },
     {
         "code": "01157",
         "name": "Umôrdhoth",
-        "subname": "The Devourer Below",
-        "text": "Hunter. Massive.\nUmôrdhoth gets +4 health per investigator.\n<b>Forced</b> - At the end of each investigator's turn: Ready Umôrdhoth.\n[action] If you control Lita Chantler: \"It's only after her!\" You throw Lita to Umôrdhoth in order to spare your lives. <b>(→R3)</b>",
-        "traits": "Ancient One. Elite."
+        "subname": "A pusztító a mélyben",
+        "text": "Vadász. Hatalmas.\nUmôrdhothnak +4 [per_investigator] életereje van.\n<b>Kötelező</b> -Minden nyomozó fordulója végén: Forgasd vissza Umôrdhothot.\n[action] Ha te irányítod Lita Chantlert: \"Csak a hölgy után!\" Hogy saját életeteket mentsétek, Litát odavetitek Umôrdhothnak. <b>(→M3)</b>",
+        "traits": "Mérhetetlen Vén. Elit."
     },
     {
         "code": "01158",
-        "flavor": "A deathly chill from below engulfs you, attempting to suck your life force away.",
-        "name": "Umôrdhoth's Wrath",
-        "text": "<b>Revelation</b> - Test [willpower] (5). For each point you fail by, you must either (choose one): Choose and discard a card from your hand, or take 1 damage and 1 horror.",
-        "traits": "Curse."
+        "flavor": "Vérfagyasztó borzongás kerít hatalmába, azzal fenyegetvén, hogy kiszipolyozza életerődet.",
+        "name": "Umôrdhoth haragja",
+        "text": "<b>Felfedés</b> - Tégy [willpower] (5) próbát. Kudarc esetén minden hiányzó pont után válassz egyet: Vagy kiválasztasz és eldobsz egy kártyát a kezedből, vagy kapsz 1 sérülést és 1 iszonyatot.",
+        "traits": "Átok."
     },
     {
         "code": "01159",
-        "flavor": "A horde of cruel rats skitters forth in an undulating wave of claws, teeth, and mottled fur.",
-        "name": "Swarm of Rats",
-        "text": "Hunter.",
-        "traits": "Creature."
+        "flavor": "Patkányok irgalmatlan serege tör elő; karmok, fogak és foltos bundák hullámzó árjaként hömpölyögve.",
+        "name": "Patkányraj",
+        "text": "Vadász.",
+        "traits": "Teremtmény."
     },
     {
         "code": "01160",
-        "flavor": "It was a colossal and nameless blasphemy with glaring red eyes, and it held in bony claws a thing that had been a man, gnawing at the head as a child nibbles at a stick of candy. <cite>H. P. Lovecraft, \"Pickman's Model\"</cite>",
-        "name": "Ghoul Minion",
-        "traits": "Humanoid. Monster. Ghoul."
+        "flavor": "\"Gigászi istentelen förtelem nézett farkasszemet velem, csontos karmaiban pedig egy ember maradványait tartotta, és úgy csócsálta a fejet, ahogy egy kisgyerek szopogatja a nyalókáját.\" <cite>- H. P. Lovecraft: Pickman modellje</cite>",
+        "name": "Ghoul szolga",
+        "traits": "Emberszerű. Szörny. Ghoul."
     },
     {
         "code": "01161",
-        "flavor": "The sight of the thing raised the question: Do we eat to live, or do we live to eat?",
-        "name": "Ravenous Ghoul",
-        "text": "<b>Prey</b> - Lowest remaining health.",
-        "traits": "Humanoid. Monster. Ghoul."
+        "flavor": "E lény puszta látványa felveti a kérdést: Azért eszünk, hogy éljünk vagy azért élünk, hogy együnk?",
+        "name": "Kiéhezett ghoul",
+        "text": "<b>Préda</b> - Legkevesebb megmaradt életerő.",
+        "traits": "Emberszerű. Szörny. Ghoul."
     },
     {
         "code": "01162",
-        "flavor": "Decaying hands rise up from below and grasp and claw at your ankles.",
-        "name": "Grasping Hands",
-        "text": "<b>Revelation</b> - Test [agility] (3). For each point you fail by, take 1 damage.",
-        "traits": "Hazard."
+        "flavor": "Odalentről rothadó kezek nyúlnak fel, bokád után kapkodva és karmolászva.",
+        "name": "Kinyúló kezek",
+        "text": "<b>Felfedés</b> - Tégy [agility] (3) próbát. Kudarc esetén kapsz 1 sérülést minden hiányzó pont után.",
+        "traits": "Kockázat."
     },
     {
         "code": "01163",
-        "flavor": "A sickening display of gore causes you to retch. You're glad this wasn't you.",
-        "name": "Rotting Remains",
-        "text": "<b>Revelation</b> - Test [willpower] (3). For each point you fail by, take 1 horror.",
-        "traits": "Terror."
+        "flavor": " E vérfürdő émelyítő látványa öklendezésre késztet. Örülsz, hogy ez nem veled történt.",
+        "name": "Rothadó maradványok",
+        "text": "<b>Felfedés</b> - Tégy [willpower] (3) próbát. Kudarc esetén kapsz 1 iszonyatot minden hiányzó pont után.",
+        "traits": "Rettegés."
     },
     {
         "code": "01164",
-        "name": "Frozen in Fear",
-        "text": "<b>Revelation</b> - Put Frozen in Fear into play in your threat area.\nThe first time you perform one of the following actions (move, fight, or evade) each round, it costs 1 additional action.\n<b>Forced</b> - At the end of your turn: Test [willpower] (3). If you succeed, discard Frozen in Fear.",
-        "traits": "Terror."
+        "name": "Dermesztő félelem",
+        "text": "<b>Felfedés</b> - Helyezd a Dermesztő félelem kártyát a fenyegetésterületedre.\nKörönként az első alkalommal, amikor az alábbi akciók egyikét hajtod végre (mozgás, harc vagy elkerülés), az további 1 akcióba kerül.\n<b>Kötelező</b> - A fordulód végén: Tégy [willpower] (3) próbát. Ha sikeres, dobd el a Dermesztő félelem kártyát.",
+        "traits": "Rettegés."
     },
     {
         "code": "01165",
-        "name": "Dissonant Voices",
-        "text": "<b>Revelation</b> - Put Dissonant Voices into play in your threat area.\nYou cannot play assets or events.\n<b>Forced</b> - At the end of the round: Discard Dissonant Voices.",
-        "traits": "Terror."
+        "name": "Éktelen hangzavar",
+        "text": "<b>Felfedés</b> - Helyezd az Éktelen hangzavar kártyát a fenyegetésterületedre.\nNem játszhatsz ki eszközöket vagy eseményeket.\n<b>Kötelező</b> - A kör végén: Dobd el az Éktelen hangzavar kártyát.",
+        "traits": "Rettegés."
     },
     {
         "code": "01166",
-        "flavor": "Dark forces stir against you. If you do not act quickly, a sinister plot will be fulfilled.",
-        "name": "Ancient Evils",
-        "text": "<b>Revelation</b> - Place 1 doom on the current agenda. This effect can cause the current agenda to advance.",
-        "traits": "Omen."
+        "flavor": "Sötét erők munkálkodnak ellened. Ha nem lépsz mielőbb a tettek mezejére, baljós ármányuk végül beteljesül.",
+        "name": "Ősi gonoszság",
+        "text": "<b>Felfedés</b> - Helyezz 1 végzetjelzőt az aktuális cselekményre. Ez okozhatja az aktuális cselekmény továbbhaladását.",
+        "traits": "Ómen."
     },
     {
         "code": "01167",
-        "flavor": "The supernatural cold threatens to freeze your soul.",
-        "name": "Crypt Chill",
-        "text": "<b>Revelation</b> - Test [willpower] (4). If you fail, choose and discard 1 asset you control (if you cannot, take 2 damage instead).",
-        "traits": "Hazard."
+        "flavor": "A természetellenes hideg azzal fenyeget, hogy a lelkedet is megdermeszti.",
+        "name": "A kripta hűvöse",
+        "text": "<b>Felfedés</b> - Tégy [willpower] (4) próbát. Ha elbukod, válassz és dobj el 1 általad irányított eszközt (ha ezt nem tudod megtenni, kapsz 2 sérülést).",
+        "traits": "Kockázat."
     },
     {
         "code": "01168",
-        "name": "Obscuring Fog",
-        "text": "<b>Revelation</b> - Attach to your location. Limit 1 per location.\nAttached location gets +2 shroud.\n<b>Forced</b> - After attached location is successfully investigated: Discard Obscuring Fog.",
-        "traits": "Hazard."
+        "name": "Kavargó köd",
+        "text": "<b>Felfedés</b> - Csatold a helyszínedhez. Helyszínenként legfeljebb 1 lehet.\nA helyszín, amihez csatolták +2 homályértéket kap.\n<b>Kötelező</b> - Miután a hozzácsatolt helyszínen sikeres nyomozást hajtottak végre: Dobd el a Kavargó ködöt.",
+        "traits": "Kockázat."
     },
     {
         "code": "01169",
-        "flavor": "It was only a small sacrifice.",
-        "name": "Acolyte",
-        "text": "<b>Spawn</b> - Any empty location.\n<b>Forced</b> - After Acolyte enters play: Place 1 doom on it.",
-        "traits": "Humanoid. Cultist."
+        "flavor": "Csekélyke áldozat volt csupán.",
+        "name": "Oltárszolga",
+        "text": "<b>Megjelenés</b> - Bármely üres helyszínen.\n<b>Kötelező</b> - Miután az Oltárszolga játékba kerül: Helyezz rá 1 végzetjelzőt.",
+        "traits": "Emberszerű. Kultista."
     },
     {
         "code": "01170",
-        "name": "Wizard of the Order",
-        "text": "<b>Spawn</b> - Any empty location.\nRetaliate.\n<b>Forced</b> - At the end of the mythos phase: Place 1 doom on Wizard of the Order.",
-        "traits": "Humanoid. Cultist."
+        "name": "A Rend varázslója",
+        "text": "<b>Megjelenés</b> - Bármely üres helyszínen.\nMegtorló.\n<b>Kötelező</b> - A mítoszfázis végén: Helyezz A Rend varázslójára 1 végzetjelzőt.",
+        "traits": "Emberszerű. Kultista."
     },
     {
         "code": "01171",
-        "name": "Mysterious Chanting",
-        "text": "<b>Revelation</b> - Place 2 doom on the nearest [[Cultist]] enemy. If there are no [[Cultist]] enemies in play, search the encounter deck and discard pile for a [[Cultist]] enemy and draw it. Shuffle the encounter deck.",
-        "traits": "Hex."
+        "name": "Rejtélyes kántálás",
+        "text": "<b>Felfedés</b> - Helyezz 2 végzetjelzőt a legközelebbi [[Kultista]] ellenségre. Ha nincs játékban [[Kultista]], keress ki a találkozás húzó- és dobópaklijából egy [[Kultista]] ellenséget és húzd fel (majd keverd meg a találkozás húzópakliját).",
+        "traits": "Rontás."
     },
     {
         "code": "01172",
-        "flavor": "... they had no faces at all to smile with, but only a suggestive blankness where a face ought to be. <cite>H. P. Lovecraft</cite>",
-        "name": "Hunting Nightgaunt",
-        "text": "Hunter.\nWhile attempting to evade Hunting Nightgaunt, double the negative modifier of each revealed chaos token.",
-        "traits": "Monster. Nightgaunt."
+        "flavor": "\"...egyáltalán nem volt arcuk a mosolyhoz, csupán sejtelmes üresség ott, ahol arcnak kellett volna lenni. Csupán fogni, repülni és csípni tudtak; ez volt az éji huhogányok tudománya.\"<cite>- H. P. Lovecraft</cite>",
+        "name": "Portyázó huhogány",
+        "text": "Vadász.\nAmikor megpróbálod elkerülni a Protyázó huhogányt, duplázd meg minden kihúzott káoszjelző negatív módosítóját.",
+        "traits": "Szörny. Éji huhogány."
     },
     {
         "code": "01173",
-        "flavor": "A nightgaunt swoops down from the sky and grabs you with its clawed hands, carrying you off into the night.",
-        "name": "On Wings of Darkness",
-        "text": "<b>Revelation</b> - Test [agility] (4). If you fail, take 1 horror and 1 damage. Then, disengage with each non-[[Nightgaunt]] enemy engaged with you and move to a [[Central]] location."
+        "flavor": "A magasból egy éji huhogány csap le rád, karmos mancsával megragad, és magával hurcol az éjszakában.",
+        "name": "A sötétség szárnyán.",
+        "text": "<b>Felfedés</b> - Tégy [agility] (4) próbát. Ha elbukod, kapsz 1 sérülést és 1 iszonyatot. Azután elszabadulsz minden nem-[[Éji huhogány]] ellenségtől, ami szembeszállt veled, és átmozogsz egy [[Központ]] helyszínre."
     },
     {
         "code": "01174",
-        "name": "Locked Door",
-        "text": "<b>Revelation</b> - Attach to the location in play with the most clues, and without a Locked Door attached.\nThe attached location cannot be investigated.\n[action]: Test [combat] (4) to break down the door or [agility] (4) to pick the lock. If you succeed, discard Locked Door.",
-        "traits": "Obstacle."
+        "name": "Zárt ajtó",
+        "text": "<b>Felfedés</b> - Csatold a legtöbb nyommal rendelkező, de zárt ajtóval nem rendelkező helyszínhez.\nA hozzácsatolt helyszínen nem lehet nyomozni.\n[action]: Tégy [combat] (4) próbát, hogy betörd az ajtót, vagy tégy [agility] (4) próbát, hogy feltörd a zárat. Ha sikeres, dobd el a Zárt ajtót.",
+        "traits": "Akadály."
     },
     {
         "code": "01175",
-        "name": "Screeching Byakhee",
-        "text": "<b>Prey</b> - Lowest remaining sanity.\nHunter.\nWhile engaged with an investigator with remaining sanity 4 or fewer, Screeching Byakhee gets +1 fight and +1 evade.",
-        "traits": "Monster. Byakhee."
+        "name": "Visító byakhee",
+        "text": "<b>Préda</b> - Legkevesebb megmaradt épelméjűség.\nVadász.\nAmikor szembeszáll egy olyan nyomozóval, akinek már csak 4 vagy kevesebb épelméjűsége maradt, a Visító byakhee +1 harc- és +1 elkerülésértéket kap.",
+        "traits": "Szörny. Byakhee."
     },
     {
         "code": "01176",
-        "flavor": "They came to me slowly as if I had forgotten them, and at last I could make some sense out of the sounds. It was this: \"Have you found the Yellow Sign?\" <cite>Robert W. Chambers, \"The Yellow Sign\"</cite>",
-        "name": "The Yellow Sign",
-        "text": "<b>Revelation</b> - Test [willpower] (4). If you fail, take 2 horror and search your deck for a [[Madness]] weakness. Draw that card and shuffle your deck.",
-        "traits": "Omen."
+        "flavor": "\"A szavak oly nehézkesen bontakoztak ki, mintha az emlékezetem mélyéről bányásznám elő őket, míg végül jelentést tudtam rendelni hozzájuk. Íme: Rá leltél már a Sárga Jelre?\"<cite>- Robert W. Chambers, A Sárga Jel</cite>",
+        "name": "A Sárga Jel",
+        "text": "<b>Felfedés</b> - Tégy [willpower] (4) próbát. Ha elbukod, kapsz 2 iszonyatot és keress ki a húzópaklidból egy [[Őrület]] gyengeséget. Húzd fel a kártyát, majd keverd meg a húzópaklidat.",
+        "traits": "Ómen."
     },
     {
         "code": "01177",
-        "name": "Yithian Observer",
-        "text": "<b>Prey</b> - Fewest cards in hand.\n<b>Forced</b> - When Yithian Observer attacks you: Discard 1 card at random from your hand. If you cannot, Yithian Observer deals +1 damage and +1 horror for this attack.",
-        "traits": "Monster. Yithian."
+        "name": "Yith-i megfigyelő",
+        "text": "<b>Préda</b> - Legkevesebb kézben lévő kártya.\n<b>Kötelező</b> - Amikor a Yith-i megfigyelő megtámad téged: Dobj el a kezedből 1 kártyát véletlenszerűen. Ha ezt nem tudod megtenni, a lény +1 sérülést és +1 iszonyatot okoz ezzel a támadással.",
+        "traits": "Szörny. Yith-lakó."
     },
     {
         "code": "01178",
-        "flavor": "A voice inside your head offers you power... For a price.",
-        "name": "Offer of Power",
-        "text": "Peril.\n<b>Revelation</b> - You must either (choose one): draw 2 cards and place 2 doom on the current agenda (this effect can cause the current agenda to advance), or take 2 horror.",
-        "traits": "Pact."
+        "flavor": "Egy hang a fejedben hatalmat kínál neked... egy bizonyos ár ellenében.",
+        "name": "A hatalom ajánlata",
+        "text": "Veszedelem.\n<b>Felfedés</b> - Válassz egyet: Vagy húzol 2 kártyát és teszel 2 végzetjelzőt az aktuális cselekményre (ez okozhatja a cselekmény továbbhaladását), vagy kapsz 2 iszonyatot.",
+        "traits": "Alku."
     },
     {
         "code": "01179",
-        "flavor": "The trees trembled, leaves fluttering around us. The earth shook as the thuds of giant hooved feet grew ever closer...",
-        "name": "Relentless Dark Young",
-        "text": "<b>Prey</b> - Lowest [agility].\n<b>Forced</b> - At the end of the round: Heal 2 damage from Relentless Dark Young.",
-        "traits": "Monster. Dark Young."
+        "flavor": "A fák megremegtek, a levelek csak úgy kavarogtak körülöttünk. A föld is belerendült, amint az ormótlan patás lábak dübörgése egyre közeledett felénk...",
+        "name": "Könyörtelen sötét sarj",
+        "text": "<b>Préda</b> - Legalacsonyabb [agility].\n<b>Kötelező</b> -A kör végén: A Könyörtelen sötét sarj gyógyul 2 sérülést.",
+        "traits": "Szörny. Sötét sarj."
     },
     {
         "code": "01180",
-        "flavor": "The creature was at once terrible and graceful, the result of blasphemous trafficks with some otherworldly horror.",
-        "name": "Goat Spawn",
-        "text": "Hunter. Retaliate.\n<b>Forced</b> - When Goat Spawn is defeated: Each investigator at this location takes 1 horror.",
-        "traits": "Humanoid. Monster."
+        "flavor": "A teremtmény egyszerre volt iszonyatos és méltóságteljes, akár valamely másvilági borzadállyal folytatott istenkáromló nász végterméke.",
+        "name": "Kecskeivadék",
+        "text": "Vadász. Megtorló.\n<b>Kötelező</b> - Amikor a Kecskeivadék legyőzetik: Minden vele egy helyszínen tartózkodó nyomozó kap 1 iszonyatot.",
+        "traits": "Emberszerű. Szörny."
     },
     {
         "code": "01181",
-        "name": "Young Deep One",
-        "text": "<b>Prey</b> - Lowest [combat].\nHunter.\n<b>Forced</b> - After Young Deep One engages you: Take 1 horror.",
-        "traits": "Humanoid. Monster. Deep One."
+        "name": "Mélységlakó poronty",
+        "text": "<b>Préda</b> - Legalacsonyabb [combat].\nVadász.\n<b>Kötelező</b> - Miután a Mélységlakó poronty szembeszáll veled: Kapsz 1 iszonyatot.",
+        "traits": "Emberszerű. Szörny. Mélységlakó"
     },
     {
         "code": "01182",
-        "name": "Dreams of R'lyeh",
-        "text": "<b>Revelation</b> - Put Dreams of R'lyeh into play in your threat area.\nYou get -1 [willpower] and -1 sanity.\n[action]: Test [willpower] (3). If you succeed, Discard Dreams of R'lyeh.",
-        "traits": "Omen."
+        "name": "R'lyeh-i álmok",
+        "text": "<b>Felfedés</b> - Helyezd a R'lyeh-i álmokat a fenyegetésterületedre.\nKapsz -1 [willpower]-t és -1 épelméjűséget.\n[action]: Tégy [willpower] (3) próbát. Ha sikeres, dobd el a R'lyeh-i álmokat.",
+        "traits": "Ómen."
     }
 ]
